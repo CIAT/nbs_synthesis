@@ -11,7 +11,7 @@ To understand this analysis please read the working paper "Steward P, Joshi N, K
 
 Analysis results are saved in folders ```./data/TV_merged``` or ```./data/TV_not_merged```.  Analyses  in ```./data/TV_merged``` have total and variable cost  renamed to "Cost" and are therefore both costs are considered together. Where total and variable costs are both reported by a study, only total cost is retained.  For results in the ```TV_not_merged```  folder total and variable costs are considered separately. Within the ```./data/TV_merged``` or ```data/TV_not_merged``` folders are subfolders named to reflect the maximum percentage of negative outcomes allowed before a combination of NbS practice x economic outcome is rejected from the dataset. For example ```data/TV_merged/Neg_7.5perc``` the final subfolder means that up to 7.5% negative outcomes were allowed per NbS practice x economic outcome.
 
-The controls for the above analysis parameters can be found in analysis script ```./nbs_analysis.R``` on L249: ```max_neg<-7.5 ``` and L250: ```combine_TV<-T ```
+The controls for the above analysis parameters can be found in analysis script ```./nbs_analysis.R``` on L249: ```max_neg<-7.5``` and L250: ```combine_TV<-T ```
 
 A further control ```do_combos``` is important (L248: ```do_combos<-F```).  
 The ```do_combos``` control determines whether practices are considered: 
