@@ -1,13 +1,13 @@
 # nbs_synthesis (phase III)
-R-script that compiles and analyses an excel based meta-dataset of nature based solution outcomes.
+An R project to compile and analyse an excel based meta-dataset of nature based solution outcomes.
 
-The meta-dataset was producted in 2023 for a rapid assessment of the economic implications of adopting field-scale NbS practices in non-high income countries. Central to our research approach was an emphasis on profit, moving away from the often-cited gross revenue metrics. Profit, which factors in the costs, gives us an unfiltered view of the farmer's genuine earnings, thereby offering a more realistic understanding of the financial dynamics of NbS. This analysis is informed by 181 studies.
+The meta-dataset was produced in 2023 for a rapid assessment of the economic implications of adopting field-scale NbS practices in non-high income countries. Central to our research approach was an emphasis on profit, moving away from the often-cited gross revenue metrics. Profit, which factors in the costs, gives us an unfiltered view of the farmer's genuine earnings, thereby offering a more realistic understanding of the financial dynamics of NbS. This analysis is informed by 181 studies.
 
 The data can be found in the ```./data/NBS_extraction_table.xlsx``` excel file.
 
 The analysis script is ```./nbs_analysis.R```.
 
-To understand this analysis please read the working paper "Steward P, Joshi N, Kacha G, Ombewa B, Mumo E, Muller L, Youngberg B,Magnan N, and Rosenstock T. 2023. Economic benefits and costs of nature-based solutions in low- and middle-income countries". Working Paper. Alliance of Bioversity-CIAT. Rome". A copy of this paper can be found in the main project directory.
+To understand this analysis please read the working paper "Steward P, Joshi N, Kacha G, Ombewa B, Mumo E, Muller L, Youngberg B, Magnan N, and Rosenstock T. 2023. Economic benefits and costs of nature-based solutions in low- and middle-income countries". Working Paper. Alliance of Bioversity-CIAT. Rome". A copy of this paper can be found in the main project directory.
 
 Analysis results are saved in folders ```./data/TV_merged``` or ```./data/TV_not_merged```.  Analyses  in ```./data/TV_merged``` have total and variable cost  renamed to "Cost" and are therefore both costs are considered together. Where total and variable costs are both reported by a study, only total cost is retained.  For results in the ```TV_not_merged```  folder total and variable costs are considered separately. Within the ```./data/TV_merged``` or ```data/TV_not_merged``` folders are subfolders named to reflect the maximum percentage of negative outcomes allowed before a combination of NbS practice x economic outcome is rejected from the dataset. For example ```data/TV_merged/Neg_7.5perc``` the final subfolder means that up to 7.5% negative outcomes were allowed per NbS practice x economic outcome.
 
