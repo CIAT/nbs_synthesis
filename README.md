@@ -1,7 +1,7 @@
 # nbs_synthesis
 R-script that compiles and analyses an excel based meta-dataset of nature based solution outcomes.
 
-The dataset was producted in 2023 for a rapid assessment of the economic implications of adopting field-scale NbS practices in non-high income countries. Central to our research approach was an emphasis on profit, moving away from the often-cited gross revenue metrics. Profit, which factors in the costs, gives us an unfiltered view of the farmer's genuine earnings, thereby offering a more realistic understanding of the financial dynamics of NbS. This analysis is informed by 181 studies.
+The meta-dataset was producted in 2023 for a rapid assessment of the economic implications of adopting field-scale NbS practices in non-high income countries. Central to our research approach was an emphasis on profit, moving away from the often-cited gross revenue metrics. Profit, which factors in the costs, gives us an unfiltered view of the farmer's genuine earnings, thereby offering a more realistic understanding of the financial dynamics of NbS. This analysis is informed by 181 studies.
 
 The data can be found in the ```./data/NBS_extraction_table.xlsx``` excel file.
 
