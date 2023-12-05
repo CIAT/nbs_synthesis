@@ -1,0 +1,26 @@
+PrName,N.Countries,N.Studies,N.Observations
+All Nbs,33,197,7079
+Reduced Tillage,15,48,621
+Residue/Mulch,14,44,828
+Reduced Fert,14,44,1191
+Organic Fert,12,23,444
+Reduced Tillage+Residue/Mulch,11,27,285
+Rotation,10,19,193
+Intercropping,10,17,358
+Reduced Fert+Organic Fert,7,10,189
+Reduced Irrigation,7,19,386
+Agroforestry,6,9,190
+Reduced Irrigation+Reduced Tillage,5,14,271
+Intercropping+Reduced Tillage,5,4,36
+Biochar,5,11,334
+Reduced Erosion,4,4,53
+Cover Crops,4,9,122
+Reduced Fert+Residue/Mulch,3,3,56
+Intercropping+Rotation,3,4,36
+Reduced Fert+Reduced Tillage,3,3,124
+Biochar+Reduced Fert,3,5,90
+Reduced Tillage+Residue/Mulch+Rotation,3,4,34
+IPM,3,4,31
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,2,5,78
+Residue/Mulch+Rotation,2,3,17
+Cover Crops+Residue/Mulch,1,3,40
