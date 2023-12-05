@@ -7,7 +7,7 @@ The data can be found in the ```./data/NBS_extraction_table.xlsx``` excel file.
 
 The analysis script is ```./nbs_analysis.R```.
 
-To understand this analysis please read the working paper "Steward P, Joshi N, Kacha G, Ombewa B, Mumo E, Muller L, Youngberg B,Magnan N, and Rosensotck T. 2023. Economic benefits and costs of nature-based solutions in low- and middle-income countries". Working Paper. Alliance of Bioversity-CIAT. Rome". A copy of this paper can be found in the main project directory.
+To understand this analysis please read the working paper "Steward P, Joshi N, Kacha G, Ombewa B, Mumo E, Muller L, Youngberg B,Magnan N, and Rosenstock T. 2023. Economic benefits and costs of nature-based solutions in low- and middle-income countries". Working Paper. Alliance of Bioversity-CIAT. Rome". A copy of this paper can be found in the main project directory.
 
 Analysis results are saved in folders ```./data/TV_merged``` or ```./data/TV_not_merged```.  Analyses  in ```./data/TV_merged``` have total and variable cost  renamed to "Cost" and are therefore both costs are considered together. Where total and variable costs are both reported by a study, only total cost is retained.  For results in the ```TV_not_merged```  folder total and variable costs are considered separately. Within the ```./data/TV_merged``` or ```data/TV_not_merged``` folders are subfolders named to reflect the maximum percentage of negative outcomes allowed before a combination of NbS practice x economic outcome is rejected from the dataset. For example ```data/TV_merged/Neg_7.5perc``` the final subfolder means that up to 7.5% negative outcomes were allowed per NbS practice x economic outcome.
 
