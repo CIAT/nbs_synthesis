@@ -1,0 +1,35 @@
+cff-version: 1.1.0
+message: "If you use this resouce, please cite it as below."
+authors:
+- family-names: Steward
+  given-names: Peter
+  orcid: https://orcid.org/0000-0002-1958-9500
+- family-names: Joshi
+  given-names: Namita
+  orcid: https://orcid.org/0000-0002-1623-6910
+- family-names: Rosenstock
+  given-names: Todd
+  orcid: https://orcid.org/0000-0002-1958-9500
+- family-names: Rosenstock
+  given-names: Todd
+  orcid:
+- family-names: Kacha
+  given-names: Gabrielle
+  orcid:
+- family-names: Ombewa
+  given-names: Babra
+  orcid:
+- family-names: Mumo
+  given-names: Elijah
+  orcid:
+- family-names: Muller
+  given-names: Lolita
+  orcid:
+- family-names: Youngberg
+  given-names: Brayden
+  orcid:
+title: Economic benefits and costs of nature-based solutions in low- and middle-income countries
+version: v1.0.0
+publisher: Alliance of Bioversity-CIAT, Rome
+date-released: 2023-12-05
+url: "https://github.com/CIAT/nbs_synthesis"
