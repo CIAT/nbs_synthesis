@@ -1,0 +1,83 @@
+Practice,Outcome,Observations,Studies,Sites,Value,CIlow,CIhigh,Sig
+Residue/Mulch,Cost,174,35,32,0.08608,0.02726,0.1449,0.0074
+Reduced Tillage+Residue/Mulch,Cost,64,22,24,-0.14665,-0.2679,-0.0254,0.02656
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,5,-0.23511,-0.44541,-0.02481,0.08385
+Reduced Irrigation+Reduced Tillage,Cost,61,13,16,-0.12867,-0.19699,-0.06036,0.00048
+Reduced Tillage+Residue/Mulch,Profit,101,26,29,0.21072,-0.11788,0.53933,0.21893
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,5,0.09092,-0.14995,0.33179,0.46897
+Reduced Irrigation+Reduced Tillage,Profit,65,14,17,0.11119,0.02015,0.20224,0.02868
+Residue/Mulch,Profit,251,42,42,0.12813,0.01636,0.23991,0.03082
+All Nbs,Cost,1575,157,165,0.05881,0.00274,0.11488,0.04139
+All Nbs,Profit,2049,181,209,0.17535,0.09092,0.25978,0.00007
+Organic Fert,Profit,129,20,28,0.38459,0.16947,0.59972,0.00159
+Reduced Fert+Organic Fert,Profit,52,9,12,-0.12648,-0.45494,0.20198,0.46601
+All Nbs,Gross Revenue,1440,138,146,0.16072,0.09608,0.22536,0
+All Nbs,Benefit Cost Ratio,1846,138,154,0.022,-0.04628,0.09029,0.52861
+Residue/Mulch,Gross Revenue,161,30,27,0.18586,0.01418,0.35754,0.04376
+Residue/Mulch,Benefit Cost Ratio,229,29,26,-0.00197,-0.10285,0.09891,0.96979
+Reduced Fert,Cost,276,33,37,-0.0549,-0.16484,0.05504,0.33437
+Reduced Fert+Organic Fert,Cost,39,10,10,0.07993,-0.04224,0.20209,0.23235
+Reduced Fert+Residue/Mulch,Cost,16,3,3,-0.10064,-0.14366,-0.05761,0.13959
+Reduced Fert,Gross Revenue,271,31,35,-0.01818,-0.1271,0.09073,0.74553
+Reduced Fert+Organic Fert,Gross Revenue,41,8,8,0.10942,0.03127,0.18757,0.02889
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,3,-0.09134,-0.36755,0.18487,0.57907
+Reduced Fert,Profit,317,37,43,-0.09868,-0.20646,0.0091,0.0797
+Reduced Fert,Benefit Cost Ratio,285,34,42,0.01654,-0.06694,0.10003,0.69977
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,8,0.04218,-0.12307,0.20742,0.63259
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,3,0.02026,-0.26301,0.30353,0.90106
+Agroforestry,Gross Revenue,29,7,7,0.00982,-0.29895,0.31858,0.95211
+Agroforestry,Cost,32,8,8,-0.21146,-0.78186,0.35894,0.49044
+Agroforestry,Net Present Value,52,3,3,0.01619,-0.84897,0.88135,0.97404
+Reduced Tillage,Cost,204,45,48,-0.11919,-0.18136,-0.05703,0.00048
+Reduced Tillage,Gross Revenue,180,38,40,-0.03583,-0.07575,0.00408,0.08638
+Reduced Tillage,Benefit Cost Ratio,230,39,41,0.03632,-0.02746,0.1001,0.27096
+Agroforestry,Benefit Cost Ratio,73,6,6,0.09445,-0.07854,0.26744,0.33065
+Reduced Irrigation,Gross Revenue,91,15,18,0.02882,-0.04469,0.10233,0.45212
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,13,0.01649,-0.02695,0.05993,0.47073
+Reduced Irrigation,Profit,105,19,22,0.11393,-0.00042,0.22828,0.06388
+Reduced Irrigation,Benefit Cost Ratio,94,13,16,0.02549,-0.04484,0.09583,0.48803
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,13,0.13494,0.06797,0.20191,0.00178
+Reduced Irrigation,Cost,95,17,20,0.00553,-0.06949,0.08055,0.88664
+Organic Fert,Cost,90,15,15,0.45317,0.12533,0.781,0.0169
+Organic Fert,Gross Revenue,95,15,15,0.60652,0.29042,0.92262,0.0021
+Organic Fert,Benefit Cost Ratio,126,17,20,0.10065,-0.03193,0.23324,0.15292
+Intercropping+Rotation,Gross Revenue,7,3,3,0.64974,0.30659,0.99289,0.00357
+Intercropping+Rotation,Cost,8,4,4,0.23025,-0.26218,0.72269,0.30542
+Intercropping+Rotation,Profit,9,4,4,0.42103,-0.1537,0.99577,0.12963
+Intercropping+Rotation,Benefit Cost Ratio,12,3,3,0.12566,0.02842,0.2229,0.01596
+Rotation,Gross Revenue,21,9,9,0.3725,0.1405,0.6045,0.01433
+Rotation,Profit,54,17,18,0.2719,0.02952,0.51428,0.05076
+Rotation,Cost,37,12,12,0.24612,0.08878,0.40346,0.01039
+Rotation,Benefit Cost Ratio,23,9,9,0.13284,-0.09138,0.35706,0.27873
+Intercropping,Cost,109,12,12,0.35255,0.06814,0.63697,0.03347
+Intercropping,Gross Revenue,105,12,13,0.33503,0.13158,0.53848,0.00728
+Intercropping,Benefit Cost Ratio,118,13,13,0.02234,-0.2804,0.32507,0.88743
+Reduced Erosion,Benefit Cost Ratio,25,4,7,0.20405,-0.12228,0.53038,0.26918
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,17,0.05713,-0.0137,0.12796,0.11964
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,64,16,17,-0.01005,-0.19418,0.17409,0.91614
+Cover Crops,Gross Revenue,33,7,7,0.20267,0.06297,0.34237,0.00771
+Cover Crops,Profit,28,9,9,0.14349,-0.11662,0.40359,0.31235
+Cover Crops,Cost,31,8,8,0.23915,0.0776,0.40069,0.0526
+Cover Crops,Benefit Cost Ratio,23,7,7,-0.05729,-0.26368,0.1491,0.60631
+Intercropping+Reduced Tillage,Gross Revenue,8,3,3,0.29982,-0.14672,0.74635,0.15638
+Biochar,Gross Revenue,79,9,11,0.13685,0.03024,0.24346,0.02968
+Biochar,Cost,78,9,11,0.31665,0.07318,0.56012,0.02815
+Biochar,Profit,91,10,12,0.10314,0.03672,0.16957,0.01204
+Biochar,Benefit Cost Ratio,86,9,11,-0.53124,-1.27374,0.21125,0.19097
+All Nbs,Labour Cost,59,11,12,-0.05083,-0.36116,0.25949,0.75494
+Reduced Erosion,Cost,11,3,3,0.17765,-0.15286,0.50816,0.40403
+Reduced Erosion,Gross Revenue,11,3,3,0.17333,0.1371,0.20955,0.03596
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,3,-0.16844,-0.89537,0.55849,0.69424
+"",Benefit Cost Ratio,10,3,5,0.24318,0.06937,0.417,0.01146
+Biochar+Reduced Fert,Profit,19,3,5,0.10519,0.05746,0.15292,0.00021
+Biochar+Reduced Fert,Cost,19,3,5,-0.26742,-0.4414,-0.09344,0.00465
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,6,-1.17971,-1.74062,-0.61881,0.00011
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,3,0.00686,-0.13653,0.15026,0.9345
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,3,0.2217,-0.11543,0.55882,0.32484
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,4,0.09704,-0.48219,0.67626,0.74691
+Cover Crops+Residue/Mulch,Cost,11,3,3,0.0109,-0.07454,0.09634,0.78204
+Cover Crops+Residue/Mulch,Profit,11,3,3,0.84308,-0.00146,1.68762,0.05033
+Residue/Mulch+Rotation,Profit,7,3,3,0.60857,0.08587,1.13127,0.02922
+IPM,Profit,9,4,4,-0.03848,-0.51354,0.43658,0.88439
+IPM,Gross Revenue,6,3,3,0.03467,-0.08824,0.15759,0.50088
+IPM,Cost,6,3,3,0.32359,0.02836,0.61882,0.03722

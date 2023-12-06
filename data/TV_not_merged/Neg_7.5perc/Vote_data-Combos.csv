@@ -1,0 +1,177 @@
+PrName,Out.SubInd,vote_mean,posT_negC,positive_strong,positive,neutral,negative,negative_strong,posC_negT,N.Obs,N.Studies
+Improved Livestock Diet,Variable Cost,2,0,1,0,0,0,0,0,1,1
+Improved Livestock Diet,Gross Profit,2,0,1,0,0,0,0,0,1,1
+Reduced Tillage,Variable Cost,-0.415468023924546,1,3,52,202,156,6,0,420,55
+Reduced Tillage,Gross Revenue,0.117071802543007,0,39,80,189,85,1,0,394,49
+Reduced Tillage,Gross Profit,0.541374389087684,21,130,168,127,104,32,28,610,64
+Reduced Tillage,Labour Cost per Asset,1,0,0,1,0,0,0,0,1,1
+Reduced Tillage,Net Profit,0.588642276422764,1,10,4,12,25,6,0,58,11
+Reduced Tillage,Benefit Cost Ratio (NPTC),0.676822916666667,2,22,14,10,13,3,2,66,9
+Reduced Tillage,Marginal Rate of Return,1.001,1,0,0,0,0,0,0,1,1
+Reduced Tillage,Total Cost,-0.238571428571429,0,1,3,42,9,1,0,56,10
+Reduced Tillage,Benefit Cost Ratio (GPVC),0.639902252567694,9,93,127,100,81,30,12,452,54
+Reduced Tillage,Total Cost (Unconfirmed),0,0,0,0,2,0,0,0,2,1
+Reduced Tillage,Net Present Value,1.71442857142857,1,5,1,0,0,0,0,7,1
+Reduced Tillage,Internal Rate of Return,1.85714285714286,0,6,1,0,0,0,0,7,1
+Reduced Tillage,Payback Period,2,0,7,0,0,0,0,0,7,1
+Reduced Tillage,Fixed Cost,0,0,0,0,4,0,0,0,4,1
+Reduced Tillage,Benefit Cost Ratio (Unspecified),-1.5,0,0,0,0,3,3,0,6,1
+Reduced Erosion,Variable Cost,0.574175824175824,0,8,7,8,7,0,0,30,7
+Reduced Erosion,Gross Revenue,0.979591836734694,0,3,13,9,0,0,0,25,7
+Reduced Erosion,Gross Profit,0.598636363636364,2,2,25,5,4,1,1,40,9
+Reduced Erosion,Net Profit (Unconfirmed),1.21435714285714,1,7,12,2,1,0,0,23,2
+Reduced Erosion,Benefit Cost Ratio (Unspecified),0.9,0,1,7,2,0,0,0,10,1
+Reduced Erosion,Benefit Cost Ratio (GPVC),0.20881043956044,1,9,5,12,13,4,0,44,7
+Reduced Erosion,Net Profit,0,0,0,0,1,0,0,0,1,1
+Biochar,Gross Revenue,0.625446428571429,0,29,29,45,3,0,0,106,9
+Biochar,Gross Profit,0.510483870967742,0,27,43,48,12,0,0,130,10
+Biochar,Total Cost,0.3375,0,13,18,43,9,0,0,83,4
+Biochar,Variable Cost,0.825806451612903,0,44,33,37,12,4,0,130,10
+Biochar,Total Cost (Unconfirmed),-0.4,0,0,0,9,6,0,0,15,1
+Biochar,Net Profit,0.922222222222222,0,29,28,14,12,0,0,83,4
+Biochar,Benefit Cost Ratio (GPVC),0.0752204301075269,4,16,25,37,31,4,5,122,10
+Biochar,Benefit Cost Ratio (NPTC),0.172222222222222,0,23,11,28,16,5,0,83,4
+Agroforestry,Gross Revenue,0.189784946236559,0,11,9,11,13,1,0,45,9
+Agroforestry,Variable Cost,-0.178571428571429,0,13,8,7,7,7,0,42,7
+Agroforestry,Gross Profit,0.0376344086021505,0,12,13,4,10,3,0,42,8
+Agroforestry,Net Profit,0.142833333333333,1,1,3,1,2,2,2,12,3
+Agroforestry,Total Cost,0.80952380952381,0,5,3,4,0,0,0,12,3
+Agroforestry,Net Present Value,-0.286981481481482,1,28,21,0,1,2,0,53,3
+Agroforestry,Benefit Cost Ratio (GPVC),0.69952380952381,2,19,10,6,3,1,0,41,7
+Agroforestry,Present Value of Benefit,2,0,2,0,0,0,0,0,2,1
+Agroforestry,Present Value of Cost,1,0,1,0,1,0,0,0,2,1
+Agroforestry,Benefit Cost Ratio (NPTC),-0.416666666666667,0,1,4,4,1,2,0,12,3
+Intercropping,Gross Profit,0.664321987951807,21,109,37,29,25,9,2,232,21
+Intercropping,Gross Revenue,1.00362165963432,0,59,29,39,7,2,0,136,20
+Intercropping,Net Profit,1.66666666666667,0,2,1,0,0,0,0,3,1
+Intercropping,Variable Cost,0.635740740740741,0,20,56,38,9,0,0,123,16
+Intercropping,Returns to Labour,1.40740740740741,0,12,14,1,0,0,0,27,1
+Intercropping,Labour Cost per Asset,1.5,0,18,1,0,0,0,0,19,2
+Intercropping,Benefit Cost Ratio (GPVC),0.651698888888889,0,41,19,28,25,5,6,124,16
+Intercropping,Marginal Rate of Return,-0.857142857142857,0,4,0,0,0,4,0,8,2
+Intercropping,Benefit Cost Ratio (Unspecified),0.6,0,8,0,8,4,0,0,20,1
+Intercropping,Net Profit (Unconfirmed),1.52068253968254,1,12,5,0,1,0,0,19,3
+Intercropping,Net Present Value,1.3755,2,3,1,0,0,0,0,6,2
+Intercropping,Internal Rate of Return,1.8,0,4,1,0,0,0,0,5,1
+Intercropping,Payback Period,2,0,5,0,0,0,0,0,5,1
+Intercropping,Total Cost (Unconfirmed),0.4,0,0,6,6,0,0,0,12,2
+Intercropping,Benefit Cost Ratio (NPTC),0.5,0,1,4,4,0,0,0,9,2
+Intercropping,Total Cost,0.666666666666667,0,0,2,1,0,0,0,3,1
+Residue/Mulch,Gross Profit,0.427953589145897,26,124,157,105,71,41,13,537,56
+Residue/Mulch,Gross Revenue,0.41363242739142,0,27,92,116,43,3,0,281,41
+Residue/Mulch,Variable Cost,0.0746940789473684,6,6,65,175,63,2,0,317,46
+Residue/Mulch,Benefit Cost Ratio (GPVC),0.262668807069143,9,69,83,104,60,16,2,343,45
+Residue/Mulch,Total Cost (Unconfirmed),0,0,0,2,4,2,0,0,8,1
+Residue/Mulch,Net Profit,0.8,0,17,8,3,0,5,0,33,8
+Residue/Mulch,Present Value of Benefit,2,0,2,0,0,0,0,0,2,1
+Residue/Mulch,Present Value of Cost,0,0,0,0,2,0,0,0,2,1
+Residue/Mulch,Net Present Value,2,0,2,0,0,0,0,0,2,1
+Residue/Mulch,Return on Investment,2,0,2,0,0,0,0,0,2,1
+Residue/Mulch,Total Cost,0.0520833333333333,0,0,8,17,6,0,0,31,7
+Residue/Mulch,Benefit Cost Ratio (NPTC),1.06349206349206,0,20,4,5,1,3,0,33,6
+Residue/Mulch,Net Profit (Unconfirmed),1.68261904761905,1,6,0,0,1,0,0,8,2
+Residue/Mulch,Return to Labour,-0.5005,0,0,0,1,0,0,1,2,1
+Residue/Mulch,Benefit Cost Ratio (Unspecified),-1.6,0,0,0,0,2,3,0,5,1
+Reduced Irrigation,Gross Revenue,0.337156862745098,0,12,46,97,11,0,0,166,23
+Reduced Irrigation,Gross Profit,0.461852713178295,0,44,50,49,34,2,2,181,24
+Reduced Irrigation,Variable Cost,-0.154934210526316,0,9,6,79,62,5,0,161,21
+Reduced Irrigation,Total Cost,-0.115384615384615,0,0,0,42,2,0,0,44,4
+Reduced Irrigation,Net Profit,0.455555555555556,0,13,14,11,3,0,0,41,4
+Reduced Irrigation,Total Cost (Unconfirmed),0,0,0,0,10,0,0,0,10,2
+Reduced Irrigation,Net Profit (Unconfirmed),0.967733766233766,7,7,4,4,1,0,0,23,3
+Reduced Irrigation,Benefit Cost Ratio (NPTC),0.284615384615385,0,4,18,16,3,3,0,44,4
+Reduced Irrigation,Benefit Cost Ratio (GPVC),0.385921052631579,7,44,37,53,27,11,7,186,21
+Reduced Irrigation,Benefit Cost Ratio (Unspecified),-0.5,0,0,0,1,1,0,0,2,1
+Rotation,Gross Revenue,1.09271523178808,0,19,11,5,1,0,0,36,14
+Rotation,Gross Profit,0.63416393442623,2,38,32,15,7,5,0,99,21
+Rotation,Returns to Labour,1.68518518518519,0,40,12,1,1,0,0,54,1
+Rotation,Benefit Cost Ratio (Unspecified),0.25,0,0,2,3,0,0,0,5,2
+Rotation,Variable Cost,1.58064516129032,0,10,25,22,2,0,0,59,15
+Rotation,Benefit Cost Ratio (GPVC),0.870760368663595,0,25,9,20,9,0,0,63,15
+Rotation,Total Cost (Unconfirmed),2,0,2,0,0,0,0,0,2,1
+Rotation,Total Cost,0.5,0,0,5,2,1,0,0,8,2
+Rotation,Net Profit,2,0,8,0,0,0,0,0,8,2
+Rotation,Net Profit (Unconfirmed),1.68261904761905,1,6,0,0,1,0,0,8,2
+Rotation,Net Present Value,1.6004,2,3,0,0,0,0,0,5,1
+Rotation,Internal Rate of Return,2,0,5,0,0,0,0,0,5,1
+Rotation,Payback Period,2,0,5,0,0,0,0,0,5,1
+Rotation,Benefit Cost Ratio (NPTC),0.875,0,4,0,3,1,0,0,8,2
+Controlled Grazing,Gross Revenue,0.5,0,0,1,1,0,0,0,2,1
+Controlled Grazing,Variable Cost,1,0,1,0,1,0,0,0,2,1
+Controlled Grazing,Gross Profit,0.5,0,0,1,1,0,0,0,2,1
+Controlled Grazing,Benefit Cost Ratio (GPVC),-0.5,0,0,0,1,1,0,0,2,1
+Reduced Fert,Gross Revenue,0.0938771402280719,0,55,66,123,129,29,0,402,37
+Reduced Fert,Gross Profit,-0.10453125279909,22,77,90,105,156,65,21,536,43
+Reduced Fert,Returns to Labour,-0.666666666666667,0,0,4,0,12,2,0,18,1
+Reduced Fert,Variable Cost,-0.0564652387413582,0,28,49,169,112,15,0,373,39
+Reduced Fert,Benefit Cost Ratio (GPVC),0.434760193595671,7,101,95,86,82,19,3,393,39
+Reduced Fert,Benefit Cost Ratio (Unspecified),-0.227272727272727,0,0,0,3,5,0,0,8,2
+Reduced Fert,Total Cost (Unconfirmed),-0.316666666666667,0,0,2,13,21,0,0,36,3
+Reduced Fert,Net Profit,-0.481944444444445,0,1,14,19,47,13,0,94,6
+Reduced Fert,Benefit Cost Ratio (NPTC),0.508333333333333,0,17,25,36,28,8,0,114,6
+Reduced Fert,Total Cost,-0.30875,0,0,11,44,39,0,0,94,6
+Reduced Fert,Net Present Value,-0.499666666666667,2,0,0,0,3,1,0,6,1
+Reduced Fert,Marginal Rate of Return,0.666809523809524,2,3,1,1,1,1,0,9,2
+Reduced Fert,Return to Labour,0.5,0,1,1,1,1,0,0,4,1
+Controlled Release Fert,Gross Revenue,-0.416666666666667,0,0,0,7,5,0,0,12,2
+Controlled Release Fert,Gross Profit,-0.333333333333333,0,0,0,8,4,0,0,12,2
+Controlled Release Fert,Variable Cost,-0.25,0,0,0,7,1,0,0,8,2
+Controlled Release Fert,Net Profit,0.333333333333333,0,0,2,4,0,0,0,6,1
+Controlled Release Fert,Total Cost,-0.666666666666667,0,0,0,2,4,0,0,6,1
+Controlled Release Fert,Benefit Cost Ratio (GPVC),0,0,1,2,3,2,0,0,8,2
+Controlled Release Fert,Benefit Cost Ratio (NPTC),0.5,0,1,2,2,1,0,0,6,1
+IPM,Net Profit (Unconfirmed),0.57514652014652,1,5,2,1,2,0,0,11,3
+IPM,Gross Profit,-0.988095238095238,0,1,2,0,5,6,0,14,3
+IPM,Gross Revenue,0.347222222222222,0,1,2,3,7,3,0,16,5
+IPM,Variable Cost,0.523809523809524,0,1,2,10,1,0,0,14,3
+IPM,Benefit Cost Ratio (GPVC),-0.913928571428571,0,2,2,1,9,7,4,25,3
+IPM,Total Cost (Unconfirmed),1,0,0,1,0,0,0,0,1,1
+Cover Crops,Returns to Labour,1.40740740740741,0,12,14,1,0,0,0,27,1
+Cover Crops,Gross Revenue,0.734386363636364,0,17,8,18,6,0,0,49,12
+Cover Crops,Gross Profit,0.132481203007519,0,8,12,8,14,1,0,43,11
+Cover Crops,Variable Cost,0.69406015037594,0,13,6,18,10,0,0,47,11
+Cover Crops,Benefit Cost Ratio (GPVC),-0.59216992481203,2,8,18,15,10,3,0,56,11
+Cover Crops,Total Cost (Unconfirmed),0,0,0,2,5,2,0,0,9,2
+Cover Crops,Net Profit,0.555555555555556,0,8,2,1,3,0,0,14,3
+Cover Crops,Total Cost,0.300675675675676,0,3,3,10,2,0,0,18,4
+Cover Crops,Net Profit (Unconfirmed),0.349285714285714,1,5,0,0,2,0,0,8,2
+Cover Crops,Return on Investment,1,0,0,2,0,0,0,0,2,1
+Cover Crops,Internal Rate of Return,1.001,5,0,0,0,0,0,0,5,1
+Cover Crops,Net Present Value,1.001,5,0,0,0,0,0,0,5,1
+Cover Crops,Benefit Cost Ratio (NPTC),0.222222222222222,0,6,0,5,1,2,0,14,3
+Organic Fert,Gross Revenue,0.84955044955045,0,82,50,36,5,3,0,176,22
+Organic Fert,Gross Profit,0.646058680109673,2,97,60,32,23,14,1,229,24
+Organic Fert,Variable Cost,0.554126984126984,0,43,61,59,3,0,0,166,21
+Organic Fert,Benefit Cost Ratio (GPVC),0.467072125456243,5,34,27,66,33,14,1,180,21
+Organic Fert,Benefit Cost Ratio (Unspecified),0,0,0,0,6,0,0,0,6,3
+Organic Fert,Total Cost (Unconfirmed),0.5,0,1,2,2,0,0,0,5,2
+Organic Fert,Net Profit (Unconfirmed),0.892946428571429,1,5,0,1,1,0,0,8,2
+Organic Fert,Total Cost,0.537142857142857,0,18,13,11,0,0,0,42,3
+Organic Fert,Net Profit,0.576190476190476,0,32,5,5,1,0,0,43,4
+Organic Fert,Net Present Value,2,0,1,0,0,0,0,0,1,1
+Organic Fert,Internal Rate of Return,2,0,1,0,0,0,0,0,1,1
+Organic Fert,Payback Period,2,0,1,0,0,0,0,0,1,1
+Organic Fert,Return to Labour,-1.0005,0,0,0,0,1,0,1,2,1
+Organic Fert,Marginal Rate of Return,0.546,6,1,0,3,0,1,0,11,1
+Organic Fert,Benefit Cost Ratio (NPTC),1.29857142857143,0,17,1,15,7,1,0,41,3
+All Nbs,Variable Cost,0.476912062520873,6,161,289,644,280,30,0,1410,133
+All Nbs,Gross Profit,0.447908240787271,80,476,475,436,333,118,56,1974,155
+All Nbs,Gross Revenue,0.532112617288316,0,266,335,558,250,33,0,1442,138
+All Nbs,Total Cost,0.185903382928357,0,27,50,202,52,1,0,332,28
+All Nbs,Net Profit,0.486193212387627,2,84,69,62,89,24,2,332,28
+All Nbs,Net Profit (Unconfirmed),0.82061149825784,7,17,23,8,3,0,0,58,10
+All Nbs,Returns to Labour,1.18181818181818,0,52,30,2,13,2,0,99,1
+All Nbs,Labour Cost per Asset,1.5,0,18,1,0,0,0,0,19,2
+All Nbs,Benefit Cost Ratio (Unspecified),-0.0482384823848238,0,9,9,23,15,4,0,60,10
+All Nbs,Benefit Cost Ratio (GPVC),0.448331904019477,33,337,344,388,284,76,32,1494,131
+All Nbs,Benefit Cost Ratio (NPTC),0.464725543763514,2,92,74,111,66,24,2,371,28
+All Nbs,Marginal Rate of Return,0.415730769230769,7,7,1,3,1,5,0,24,4
+All Nbs,Total Cost (Unconfirmed),0.398015873015873,0,3,11,51,23,0,0,88,12
+All Nbs,Present Value of Benefit,2,0,4,0,0,0,0,0,4,2
+All Nbs,Present Value of Cost,0.2,0,1,0,3,0,0,0,4,2
+All Nbs,Net Present Value,0.916485303617571,11,37,22,0,4,3,0,77,7
+All Nbs,Return on Investment,1.57142857142857,0,2,2,0,0,0,0,4,2
+All Nbs,Internal Rate of Return,1.06442063492063,5,8,1,0,0,0,0,14,2
+All Nbs,Payback Period,2,0,9,0,0,0,0,0,9,1
+All Nbs,Fixed Cost,0,0,0,0,4,0,0,0,4,1
+All Nbs,Return to Labour,-0.12525,0,1,1,2,2,0,2,8,1

@@ -1,0 +1,2185 @@
+PrName,Out.SubInd,N.Obs,N.Studies,vote_mean,variable,value,direction
+Improved Livestock Diet,Cost,1,1,2,posT_negC,0,positive
+Improved Livestock Diet,Profit,1,1,2,posT_negC,0,positive
+Reduced Tillage,Cost,204,45,-0.443352601156069,posT_negC,0,positive
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,posT_negC,0,positive
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,posT_negC,0,positive
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,posT_negC,0,positive
+Reduced Tillage,Profit,267,49,0.475297397945391,posT_negC,11,positive
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,posT_negC,1,positive
+Reduced Tillage,Labour Cost,3,2,1,posT_negC,0,positive
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,posT_negC,0,positive
+Biochar,Gross Revenue,79,9,0.420386904761905,posT_negC,0,positive
+Biochar,Profit,91,10,0.368279569892473,posT_negC,0,positive
+Agroforestry,Gross Revenue,29,7,0.11969696969697,posT_negC,0,positive
+Intercropping+Residue/Mulch,Profit,3,1,1,posT_negC,0,positive
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,posT_negC,0,positive
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,posT_negC,4,positive
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,posT_negC,1,positive
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,posT_negC,0,positive
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,posT_negC,0,positive
+Residue/Mulch,Profit,270,42,0.420267458463136,posT_negC,13,positive
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,posT_negC,5,positive
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,posT_negC,1,positive
+Intercropping,Gross Revenue,105,12,0.845350241545894,posT_negC,0,positive
+Intercropping,Profit,201,16,0.715082948717949,posT_negC,21,positive
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,posT_negC,0,positive
+Intercropping+Rotation,Gross Revenue,7,3,1.5,posT_negC,0,positive
+Rotation,Gross Revenue,21,9,1.00572519083969,posT_negC,0,positive
+Intercropping+Rotation,Profit,9,4,0.970588235294118,posT_negC,0,positive
+Rotation,Profit,56,17,0.590574297188755,posT_negC,2,positive
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,posT_negC,0,positive
+Reduced Irrigation,Profit,111,19,0.418806878306878,posT_negC,6,positive
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,posT_negC,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,posT_negC,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,posT_negC,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,posT_negC,0,positive
+Agroforestry,Profit,36,9,-0.212649425287356,posT_negC,1,positive
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,posT_negC,0,positive
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Irrigation,Profit,4,1,1,posT_negC,0,positive
+Agroforestry+Reduced Irrigation,Cost,8,1,0,posT_negC,0,positive
+Reduced Irrigation,Cost,95,17,0.103508771929825,posT_negC,0,positive
+Residue/Mulch,Cost,179,36,0.304019283746556,posT_negC,5,positive
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,posT_negC,0,positive
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,posT_negC,0,positive
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,posT_negC,3,positive
+Reduced Fert,Profit,341,37,-0.281331953036066,posT_negC,10,positive
+Controlled Release Fert,Profit,8,2,-0.5,posT_negC,0,positive
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,posT_negC,0,positive
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,posT_negC,0,positive
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,posT_negC,0,positive
+Controlled Release Fert,Labour Cost,4,1,0,posT_negC,0,positive
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,posT_negC,0,positive
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,posT_negC,0,positive
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,posT_negC,0,positive
+IPM,Profit,9,4,-0.111111111111111,posT_negC,0,positive
+Rotation,Returns to Labour,54,1,1.68518518518519,posT_negC,0,positive
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,posT_negC,0,positive
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,posT_negC,0,positive
+Intercropping,Cost,109,12,0.721358024691358,posT_negC,0,positive
+Reduced Fert,Cost,280,34,-0.0725071225071225,posT_negC,0,positive
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,posT_negC,0,positive
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,posT_negC,0,positive
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,posT_negC,0,positive
+Reduced Erosion,Profit,21,4,0.706147058823529,posT_negC,1,positive
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,posT_negC,0,positive
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,posT_negC,0,positive
+Reduced Erosion+Organic Fert,Profit,1,1,0,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,posT_negC,0,positive
+Reduced Erosion+Organic Fert,Cost,1,1,1,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,posT_negC,0,positive
+Organic Fert,Labour Cost,4,1,1.5,posT_negC,0,positive
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,posT_negC,0,positive
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,posT_negC,0,positive
+Organic Fert,Cost,97,16,1.05816993464052,posT_negC,0,positive
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,posT_negC,0,positive
+Reduced Erosion,Cost,11,3,0.416666666666667,posT_negC,0,positive
+Organic Fert,Gross Revenue,95,15,1.25260416666667,posT_negC,0,positive
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,posT_negC,0,positive
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,posT_negC,0,positive
+Organic Fert,Profit,132,20,0.988925081433225,posT_negC,2,positive
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,posT_negC,0,positive
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,posT_negC,0,positive
+Intercropping,Labour Cost per Asset,18,1,2,posT_negC,0,positive
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,posT_negC,1,positive
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,posT_negC,0,positive
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,posT_negC,0,positive
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,posT_negC,0,positive
+IPM,Gross Revenue,6,3,0.0476190476190476,posT_negC,0,positive
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,posT_negC,0,positive
+IPM,Cost,6,3,1.02380952380952,posT_negC,0,positive
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,posT_negC,0,positive
+IPM,Labour Cost,2,1,0.5,posT_negC,0,positive
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,posT_negC,0,positive
+Biochar,Cost,91,10,0.770161290322581,posT_negC,0,positive
+Agroforestry+Organic Fert,Profit,1,1,-1,posT_negC,0,positive
+Agroforestry,Cost,32,8,-0.294871794871795,posT_negC,0,positive
+Agroforestry+Organic Fert,Cost,1,1,-1,posT_negC,0,positive
+Agroforestry+Reduced Fert,Profit,3,2,-1,posT_negC,0,positive
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,posT_negC,0,positive
+Cover Crops+Residue/Mulch,Cost,11,3,0,posT_negC,0,positive
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,posT_negC,0,positive
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,posT_negC,0,positive
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,posT_negC,0,positive
+"",Profit,12,3,0.500333333333333,posT_negC,3,positive
+"",Cost,9,2,-0.666666666666667,posT_negC,0,positive
+"",Gross Revenue,9,2,0.25,posT_negC,0,positive
+IPM,Benefit Cost Ratio,8,2,-0.5,posT_negC,0,positive
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,posT_negC,7,positive
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,posT_negC,2,positive
+Residue/Mulch,Present Value of Benefit,2,1,2,posT_negC,0,positive
+Residue/Mulch,Present Value of Cost,2,1,0,posT_negC,0,positive
+Residue/Mulch,Net Present Value,2,1,2,posT_negC,0,positive
+Residue/Mulch,Return on Investment,2,1,2,posT_negC,0,positive
+Cover Crops,Cost,31,8,0.690697674418605,posT_negC,0,positive
+Cover Crops,Gross Revenue,33,7,0.705585980284775,posT_negC,0,positive
+Cover Crops,Profit,28,9,0.131111111111111,posT_negC,0,positive
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,posT_negC,0,positive
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,posT_negC,0,positive
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,posT_negC,0,positive
+Rotation,Cost,37,12,1.70454545454545,posT_negC,0,positive
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,posT_negC,0,positive
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,posT_negC,0,positive
+Cover Crops+Reduced Fert,Cost,1,1,0,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,posT_negC,0,positive
+Reduced Irrigation+Rotation,Profit,4,1,0.5,posT_negC,0,positive
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,posT_negC,0,positive
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,posT_negC,0,positive
+Intercropping+Rotation,Cost,8,4,0.764705882352941,posT_negC,0,positive
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,posT_negC,0,positive
+Residue/Mulch+Rotation,Profit,7,3,1.55,posT_negC,0,positive
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,posT_negC,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,posT_negC,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,posT_negC,0,positive
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,posT_negC,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,posT_negC,0,positive
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,posT_negC,0,positive
+Intercropping+Reduced Tillage,Cost,6,2,0.625,posT_negC,0,positive
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,posT_negC,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,posT_negC,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,posT_negC,0,positive
+Agroforestry+Reduced Tillage,Cost,2,1,-1,posT_negC,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,posT_negC,0,positive
+Intercropping+Reduced Tillage,Profit,6,2,1.375,posT_negC,0,positive
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,posT_negC,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Tillage,Profit,2,1,0,posT_negC,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,posT_negC,0,positive
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,posT_negC,0,positive
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,posT_negC,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,posT_negC,0,positive
+Organic Fert+Residue/Mulch,Cost,1,1,1,posT_negC,0,positive
+Organic Fert+Reduced Tillage,Cost,7,2,0,posT_negC,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,posT_negC,0,positive
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,posT_negC,0,positive
+Controlled Release Fert,Gross Revenue,4,1,0,posT_negC,0,positive
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,posT_negC,0,positive
+Controlled Release Fert,Cost,4,1,0,posT_negC,0,positive
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,posT_negC,0,positive
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,posT_negC,0,positive
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,posT_negC,0,positive
+Agroforestry,Net Present Value,53,3,-0.286981481481482,posT_negC,1,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,posT_negC,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,posT_negC,0,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,posT_negC,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,posT_negC,1,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,posT_negC,0,positive
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,posT_negC,0,positive
+Cover Crops+Reduced Tillage,Cost,1,1,0,posT_negC,0,positive
+Cover Crops+Reduced Tillage,Profit,1,1,-1,posT_negC,0,positive
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,posT_negC,0,positive
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,posT_negC,0,positive
+Residue/Mulch,Labour Cost,5,2,1.5,posT_negC,0,positive
+Reduced Tillage+Rotation,Net Present Value,2,1,2,posT_negC,0,positive
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,posT_negC,0,positive
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,posT_negC,0,positive
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,posT_negC,0,positive
+Intercropping+Reduced Tillage,Payback Period,3,1,2,posT_negC,0,positive
+Reduced Tillage+Rotation,Payback Period,2,1,2,posT_negC,0,positive
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,posT_negC,1,positive
+Rotation,Net Present Value,2,1,1.5005,posT_negC,1,positive
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,posT_negC,0,positive
+Rotation,Internal Rate of Return,2,1,2,posT_negC,0,positive
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,posT_negC,0,positive
+Rotation,Payback Period,2,1,2,posT_negC,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,posT_negC,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,posT_negC,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,posT_negC,0,positive
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,posT_negC,0,positive
+Residue/Mulch+Rotation,Cost,6,2,0.5,posT_negC,0,positive
+Reduced Tillage,Fixed Cost,4,1,0,posT_negC,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,posT_negC,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,posT_negC,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,posT_negC,0,positive
+Cover Crops,Return on Investment,2,1,1,posT_negC,0,positive
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,posT_negC,2,positive
+Intercropping,Net Present Value,1,1,1.001,posT_negC,1,positive
+"",Benefit Cost Ratio,10,3,0.722222222222222,posT_negC,0,positive
+"",Net Present Value,1,1,2,posT_negC,0,positive
+Reduced Irrigation,Labour Cost,1,1,-2,posT_negC,0,positive
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,posT_negC,0,positive
+Reduced Fert,Labour Cost,12,1,0.916666666666667,posT_negC,0,positive
+Residue/Mulch,Return to Labour,2,1,-0.5005,posT_negC,0,positive
+Organic Fert,Return to Labour,2,1,-1.0005,posT_negC,0,positive
+Reduced Fert,Return to Labour,4,1,0.5,posT_negC,0,positive
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,posT_negC,0,positive
+Reduced Fert+Intercropping,Cost,2,1,-1,posT_negC,0,positive
+Reduced Fert+Intercropping,Profit,2,1,0.5,posT_negC,0,positive
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,posT_negC,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,posT_negC,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,posT_negC,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,posT_negC,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,posT_negC,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,posT_negC,0,positive
+Agroforestry,Present Value of Benefit,2,1,2,posT_negC,0,positive
+Agroforestry,Present Value of Cost,2,1,1,posT_negC,0,positive
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,posT_negC,0,positive
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,posT_negC,0,positive
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,posT_negC,0,positive
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,posT_negC,0,positive
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,posT_negC,0,positive
+Reduced Erosion+Reduced Fert,Profit,3,1,1,posT_negC,0,positive
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,posT_negC,0,positive
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,posT_negC,0,positive
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,posT_negC,4,positive
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,posT_negC,2,positive
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,posT_negC,0,positive
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,posT_negC,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,posT_negC,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,posT_negC,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,posT_negC,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,posT_negC,0,positive
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,posT_negC,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,posT_negC,0,positive
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,posT_negC,0,positive
+Biochar+Organic Fert,Cost,20,1,1.65,posT_negC,0,positive
+Biochar+Organic Fert,Gross Revenue,20,1,2,posT_negC,0,positive
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,posT_negC,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,posT_negC,0,positive
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,posT_negC,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,posT_negC,0,positive
+Intercropping+Organic Fert,Profit,2,1,2,posT_negC,0,positive
+Organic Fert+Rotation,Profit,2,1,2,posT_negC,0,positive
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,posT_negC,0,positive
+Cover Crops,Labour Cost,5,1,-0.2,posT_negC,0,positive
+Cover Crops,Internal Rate of Return,5,1,1.001,posT_negC,5,positive
+Cover Crops,Net Present Value,5,1,1.001,posT_negC,5,positive
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,posT_negC,0,positive
+Organic Fert+Residue/Mulch,Profit,1,1,1,posT_negC,0,positive
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,posT_negC,0,positive
+Biochar+Organic Fert,Profit,20,1,2,posT_negC,0,positive
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,posT_negC,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,posT_negC,0,positive
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,posT_negC,0,positive
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,posT_negC,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,posT_negC,0,positive
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,posT_negC,0,positive
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,posT_negC,0,positive
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,posT_negC,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posT_negC,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,posT_negC,0,positive
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,posT_negC,0,positive
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,posT_negC,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,posT_negC,0,positive
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,posT_negC,0,positive
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,posT_negC,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,posT_negC,0,positive
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,posT_negC,0,positive
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,posT_negC,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,posT_negC,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,posT_negC,0,positive
+All Nbs,Cost,1605,158,0.451993228502717,posT_negC,6,positive
+All Nbs,Profit,2195,182,0.483345336179548,posT_negC,88,positive
+All Nbs,Gross Revenue,1442,138,0.532112617288316,posT_negC,0,positive
+All Nbs,Labour Cost,59,11,0.053030303030303,posT_negC,0,positive
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,posT_negC,6,positive
+All Nbs,Returns to Labour,99,1,1.18181818181818,posT_negC,0,positive
+All Nbs,Labour Cost per Asset,19,2,1.5,posT_negC,0,positive
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,posT_negC,7,positive
+All Nbs,Present Value of Benefit,4,2,2,posT_negC,0,positive
+All Nbs,Present Value of Cost,4,2,0.2,posT_negC,0,positive
+All Nbs,Net Present Value,77,7,0.916485303617571,posT_negC,11,positive
+All Nbs,Return on Investment,4,2,1.57142857142857,posT_negC,0,positive
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,posT_negC,5,positive
+All Nbs,Payback Period,9,1,2,posT_negC,0,positive
+All Nbs,Fixed Cost,4,1,0,posT_negC,0,positive
+All Nbs,Return to Labour,8,1,-0.12525,posT_negC,0,positive
+Improved Livestock Diet,Cost,1,1,2,positive_strong,1,positive
+Improved Livestock Diet,Profit,1,1,2,positive_strong,1,positive
+Reduced Tillage,Cost,204,45,-0.443352601156069,positive_strong,0,positive
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,positive_strong,0,positive
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,positive_strong,4,positive
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,positive_strong,1,positive
+Reduced Tillage,Profit,267,49,0.475297397945391,positive_strong,37,positive
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,positive_strong,2,positive
+Reduced Tillage,Labour Cost,3,2,1,positive_strong,0,positive
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,positive_strong,0,positive
+Biochar,Gross Revenue,79,9,0.420386904761905,positive_strong,9,positive
+Biochar,Profit,91,10,0.368279569892473,positive_strong,7,positive
+Agroforestry,Gross Revenue,29,7,0.11969696969697,positive_strong,7,positive
+Intercropping+Residue/Mulch,Profit,3,1,1,positive_strong,0,positive
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,positive_strong,0,positive
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,positive_strong,0,positive
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,positive_strong,1,positive
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,positive_strong,2,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,positive_strong,0,positive
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,positive_strong,17,positive
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,positive_strong,13,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,positive_strong,8,positive
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,positive_strong,0,positive
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,positive_strong,2,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,positive_strong,1,positive
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,positive_strong,19,positive
+Residue/Mulch,Profit,270,42,0.420267458463136,positive_strong,67,positive
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,positive_strong,17,positive
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,positive_strong,6,positive
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,positive_strong,5,positive
+Intercropping,Gross Revenue,105,12,0.845350241545894,positive_strong,41,positive
+Intercropping,Profit,201,16,0.715082948717949,positive_strong,96,positive
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,positive_strong,37,positive
+Intercropping+Rotation,Gross Revenue,7,3,1.5,positive_strong,6,positive
+Rotation,Gross Revenue,21,9,1.00572519083969,positive_strong,8,positive
+Intercropping+Rotation,Profit,9,4,0.970588235294118,positive_strong,7,positive
+Rotation,Profit,56,17,0.590574297188755,positive_strong,15,positive
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,positive_strong,7,positive
+Reduced Irrigation,Profit,111,19,0.418806878306878,positive_strong,26,positive
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,positive_strong,7,positive
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,positive_strong,5,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,positive_strong,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,positive_strong,1,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,positive_strong,0,positive
+Agroforestry,Profit,36,9,-0.212649425287356,positive_strong,9,positive
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,positive_strong,3,positive
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,positive_strong,2,positive
+Agroforestry+Reduced Irrigation,Profit,4,1,1,positive_strong,2,positive
+Agroforestry+Reduced Irrigation,Cost,8,1,0,positive_strong,4,positive
+Reduced Irrigation,Cost,95,17,0.103508771929825,positive_strong,2,positive
+Residue/Mulch,Cost,179,36,0.304019283746556,positive_strong,3,positive
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,positive_strong,28,positive
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,positive_strong,0,positive
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,positive_strong,24,positive
+Reduced Fert,Profit,341,37,-0.281331953036066,positive_strong,31,positive
+Controlled Release Fert,Profit,8,2,-0.5,positive_strong,0,positive
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,positive_strong,0,positive
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,positive_strong,0,positive
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,positive_strong,0,positive
+Controlled Release Fert,Labour Cost,4,1,0,positive_strong,0,positive
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,positive_strong,22,positive
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,positive_strong,19,positive
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,positive_strong,0,positive
+IPM,Profit,9,4,-0.111111111111111,positive_strong,1,positive
+Rotation,Returns to Labour,54,1,1.68518518518519,positive_strong,40,positive
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,positive_strong,0,positive
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,positive_strong,12,positive
+Intercropping,Cost,109,12,0.721358024691358,positive_strong,12,positive
+Reduced Fert,Cost,280,34,-0.0725071225071225,positive_strong,24,positive
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,positive_strong,3,positive
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,positive_strong,0,positive
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,positive_strong,4,positive
+Reduced Erosion,Profit,21,4,0.706147058823529,positive_strong,2,positive
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,positive_strong,1,positive
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,positive_strong,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,positive_strong,1,positive
+Reduced Erosion+Organic Fert,Profit,1,1,0,positive_strong,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,positive_strong,0,positive
+Reduced Erosion+Organic Fert,Cost,1,1,1,positive_strong,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,positive_strong,1,positive
+Organic Fert,Labour Cost,4,1,1.5,positive_strong,2,positive
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,positive_strong,2,positive
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,positive_strong,4,positive
+Organic Fert,Cost,97,16,1.05816993464052,positive_strong,29,positive
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,positive_strong,2,positive
+Reduced Erosion,Cost,11,3,0.416666666666667,positive_strong,4,positive
+Organic Fert,Gross Revenue,95,15,1.25260416666667,positive_strong,58,positive
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,positive_strong,3,positive
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,positive_strong,0,positive
+Organic Fert,Profit,132,20,0.988925081433225,positive_strong,65,positive
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,positive_strong,6,positive
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,positive_strong,4,positive
+Intercropping,Labour Cost per Asset,18,1,2,positive_strong,18,positive
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,positive_strong,0,positive
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,positive_strong,0,positive
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,positive_strong,0,positive
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,positive_strong,0,positive
+IPM,Gross Revenue,6,3,0.0476190476190476,positive_strong,0,positive
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,positive_strong,0,positive
+IPM,Cost,6,3,1.02380952380952,positive_strong,1,positive
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,positive_strong,0,positive
+IPM,Labour Cost,2,1,0.5,positive_strong,0,positive
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,positive_strong,0,positive
+Biochar,Cost,91,10,0.770161290322581,positive_strong,29,positive
+Agroforestry+Organic Fert,Profit,1,1,-1,positive_strong,0,positive
+Agroforestry,Cost,32,8,-0.294871794871795,positive_strong,13,positive
+Agroforestry+Organic Fert,Cost,1,1,-1,positive_strong,0,positive
+Agroforestry+Reduced Fert,Profit,3,2,-1,positive_strong,0,positive
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,positive_strong,0,positive
+Cover Crops+Residue/Mulch,Cost,11,3,0,positive_strong,0,positive
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,positive_strong,1,positive
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,positive_strong,8,positive
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,positive_strong,0,positive
+"",Profit,12,3,0.500333333333333,positive_strong,0,positive
+"",Cost,9,2,-0.666666666666667,positive_strong,0,positive
+"",Gross Revenue,9,2,0.25,positive_strong,0,positive
+IPM,Benefit Cost Ratio,8,2,-0.5,positive_strong,0,positive
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,positive_strong,9,positive
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,positive_strong,5,positive
+Residue/Mulch,Present Value of Benefit,2,1,2,positive_strong,2,positive
+Residue/Mulch,Present Value of Cost,2,1,0,positive_strong,0,positive
+Residue/Mulch,Net Present Value,2,1,2,positive_strong,2,positive
+Residue/Mulch,Return on Investment,2,1,2,positive_strong,2,positive
+Cover Crops,Cost,31,8,0.690697674418605,positive_strong,12,positive
+Cover Crops,Gross Revenue,33,7,0.705585980284775,positive_strong,14,positive
+Cover Crops,Profit,28,9,0.131111111111111,positive_strong,8,positive
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,positive_strong,1,positive
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,positive_strong,0,positive
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,positive_strong,0,positive
+Rotation,Cost,37,12,1.70454545454545,positive_strong,5,positive
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,positive_strong,47,positive
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,positive_strong,0,positive
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,positive_strong,3,positive
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,positive_strong,7,positive
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,positive_strong,2,positive
+Cover Crops+Reduced Fert,Cost,1,1,0,positive_strong,0,positive
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,positive_strong,2,positive
+Reduced Irrigation+Rotation,Profit,4,1,0.5,positive_strong,0,positive
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,positive_strong,20,positive
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,positive_strong,0,positive
+Intercropping+Rotation,Cost,8,4,0.764705882352941,positive_strong,6,positive
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,positive_strong,2,positive
+Residue/Mulch+Rotation,Profit,7,3,1.55,positive_strong,5,positive
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,positive_strong,1,positive
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,positive_strong,1,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,positive_strong,1,positive
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,positive_strong,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,positive_strong,0,positive
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,positive_strong,0,positive
+Intercropping+Reduced Tillage,Cost,6,2,0.625,positive_strong,0,positive
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,positive_strong,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,positive_strong,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,positive_strong,0,positive
+Agroforestry+Reduced Tillage,Cost,2,1,-1,positive_strong,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,positive_strong,0,positive
+Intercropping+Reduced Tillage,Profit,6,2,1.375,positive_strong,4,positive
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,positive_strong,1,positive
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,positive_strong,1,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,positive_strong,1,positive
+Agroforestry+Reduced Tillage,Profit,2,1,0,positive_strong,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,positive_strong,0,positive
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,positive_strong,0,positive
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,positive_strong,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,positive_strong,0,positive
+Organic Fert+Residue/Mulch,Cost,1,1,1,positive_strong,0,positive
+Organic Fert+Reduced Tillage,Cost,7,2,0,positive_strong,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,positive_strong,0,positive
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,positive_strong,4,positive
+Controlled Release Fert,Gross Revenue,4,1,0,positive_strong,0,positive
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,positive_strong,0,positive
+Controlled Release Fert,Cost,4,1,0,positive_strong,0,positive
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,positive_strong,0,positive
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,positive_strong,0,positive
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,positive_strong,6,positive
+Agroforestry,Net Present Value,53,3,-0.286981481481482,positive_strong,28,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,positive_strong,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,positive_strong,0,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,positive_strong,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,positive_strong,0,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,positive_strong,1,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,positive_strong,5,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,positive_strong,0,positive
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,positive_strong,0,positive
+Cover Crops+Reduced Tillage,Cost,1,1,0,positive_strong,0,positive
+Cover Crops+Reduced Tillage,Profit,1,1,-1,positive_strong,0,positive
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,positive_strong,0,positive
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,positive_strong,0,positive
+Residue/Mulch,Labour Cost,5,2,1.5,positive_strong,3,positive
+Reduced Tillage+Rotation,Net Present Value,2,1,2,positive_strong,2,positive
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,positive_strong,2,positive
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,positive_strong,2,positive
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,positive_strong,2,positive
+Intercropping+Reduced Tillage,Payback Period,3,1,2,positive_strong,3,positive
+Reduced Tillage+Rotation,Payback Period,2,1,2,positive_strong,2,positive
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,positive_strong,0,positive
+Rotation,Net Present Value,2,1,1.5005,positive_strong,1,positive
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,positive_strong,1,positive
+Rotation,Internal Rate of Return,2,1,2,positive_strong,2,positive
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,positive_strong,1,positive
+Rotation,Payback Period,2,1,2,positive_strong,2,positive
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,positive_strong,1,positive
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,positive_strong,1,positive
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,positive_strong,1,positive
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,positive_strong,0,positive
+Residue/Mulch+Rotation,Cost,6,2,0.5,positive_strong,0,positive
+Reduced Tillage,Fixed Cost,4,1,0,positive_strong,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,positive_strong,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,positive_strong,2,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,positive_strong,5,positive
+Cover Crops,Return on Investment,2,1,1,positive_strong,0,positive
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,positive_strong,0,positive
+Intercropping,Net Present Value,1,1,1.001,positive_strong,0,positive
+"",Benefit Cost Ratio,10,3,0.722222222222222,positive_strong,2,positive
+"",Net Present Value,1,1,2,positive_strong,1,positive
+Reduced Irrigation,Labour Cost,1,1,-2,positive_strong,0,positive
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,positive_strong,2,positive
+Reduced Fert,Labour Cost,12,1,0.916666666666667,positive_strong,0,positive
+Residue/Mulch,Return to Labour,2,1,-0.5005,positive_strong,0,positive
+Organic Fert,Return to Labour,2,1,-1.0005,positive_strong,0,positive
+Reduced Fert,Return to Labour,4,1,0.5,positive_strong,1,positive
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,positive_strong,2,positive
+Reduced Fert+Intercropping,Cost,2,1,-1,positive_strong,0,positive
+Reduced Fert+Intercropping,Profit,2,1,0.5,positive_strong,0,positive
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,positive_strong,2,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,positive_strong,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,positive_strong,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,positive_strong,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,positive_strong,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,positive_strong,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,positive_strong,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,positive_strong,8,positive
+Agroforestry,Present Value of Benefit,2,1,2,positive_strong,2,positive
+Agroforestry,Present Value of Cost,2,1,1,positive_strong,1,positive
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,positive_strong,0,positive
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,positive_strong,0,positive
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,positive_strong,0,positive
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,positive_strong,0,positive
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,positive_strong,0,positive
+Reduced Erosion+Reduced Fert,Profit,3,1,1,positive_strong,0,positive
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,positive_strong,2,positive
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,positive_strong,0,positive
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,positive_strong,0,positive
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,positive_strong,1,positive
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,positive_strong,0,positive
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,positive_strong,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,positive_strong,5,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,positive_strong,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,positive_strong,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,positive_strong,0,positive
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,positive_strong,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,positive_strong,0,positive
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,positive_strong,4,positive
+Biochar+Organic Fert,Cost,20,1,1.65,positive_strong,13,positive
+Biochar+Organic Fert,Gross Revenue,20,1,2,positive_strong,20,positive
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,positive_strong,35,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,positive_strong,0,positive
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,positive_strong,1,positive
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,positive_strong,1,positive
+Intercropping+Organic Fert,Profit,2,1,2,positive_strong,2,positive
+Organic Fert+Rotation,Profit,2,1,2,positive_strong,2,positive
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,positive_strong,2,positive
+Cover Crops,Labour Cost,5,1,-0.2,positive_strong,0,positive
+Cover Crops,Internal Rate of Return,5,1,1.001,positive_strong,0,positive
+Cover Crops,Net Present Value,5,1,1.001,positive_strong,0,positive
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,positive_strong,0,positive
+Organic Fert+Residue/Mulch,Profit,1,1,1,positive_strong,0,positive
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,positive_strong,0,positive
+Biochar+Organic Fert,Profit,20,1,2,positive_strong,20,positive
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,positive_strong,3,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,positive_strong,0,positive
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,positive_strong,4,positive
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,positive_strong,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,positive_strong,0,positive
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,positive_strong,0,positive
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,positive_strong,3,positive
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,positive_strong,1,positive
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive_strong,1,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive_strong,1,positive
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive_strong,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,positive_strong,0,positive
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,positive_strong,0,positive
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,positive_strong,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,positive_strong,0,positive
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,positive_strong,0,positive
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,positive_strong,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,positive_strong,0,positive
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,positive_strong,0,positive
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,positive_strong,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,positive_strong,3,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,positive_strong,0,positive
+All Nbs,Cost,1605,158,0.451993228502717,positive_strong,169,positive
+All Nbs,Profit,2195,182,0.483345336179548,positive_strong,531,positive
+All Nbs,Gross Revenue,1442,138,0.532112617288316,positive_strong,266,positive
+All Nbs,Labour Cost,59,11,0.053030303030303,positive_strong,11,positive
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,positive_strong,252,positive
+All Nbs,Returns to Labour,99,1,1.18181818181818,positive_strong,52,positive
+All Nbs,Labour Cost per Asset,19,2,1.5,positive_strong,18,positive
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,positive_strong,7,positive
+All Nbs,Present Value of Benefit,4,2,2,positive_strong,4,positive
+All Nbs,Present Value of Cost,4,2,0.2,positive_strong,1,positive
+All Nbs,Net Present Value,77,7,0.916485303617571,positive_strong,37,positive
+All Nbs,Return on Investment,4,2,1.57142857142857,positive_strong,2,positive
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,positive_strong,8,positive
+All Nbs,Payback Period,9,1,2,positive_strong,9,positive
+All Nbs,Fixed Cost,4,1,0,positive_strong,0,positive
+All Nbs,Return to Labour,8,1,-0.12525,positive_strong,1,positive
+Improved Livestock Diet,Cost,1,1,2,positive,0,positive
+Improved Livestock Diet,Profit,1,1,2,positive,0,positive
+Reduced Tillage,Cost,204,45,-0.443352601156069,positive,14,positive
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,positive,0,positive
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,positive,31,positive
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,positive,1,positive
+Reduced Tillage,Profit,267,49,0.475297397945391,positive,60,positive
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,positive,2,positive
+Reduced Tillage,Labour Cost,3,2,1,positive,3,positive
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,positive,2,positive
+Biochar,Gross Revenue,79,9,0.420386904761905,positive,28,positive
+Biochar,Profit,91,10,0.368279569892473,positive,36,positive
+Agroforestry,Gross Revenue,29,7,0.11969696969697,positive,7,positive
+Intercropping+Residue/Mulch,Profit,3,1,1,positive,3,positive
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,positive,3,positive
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,positive,3,positive
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,positive,11,positive
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,positive,11,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,positive,9,positive
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,positive,35,positive
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,positive,28,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,positive,6,positive
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,positive,9,positive
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,positive,1,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,positive,0,positive
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,positive,59,positive
+Residue/Mulch,Profit,270,42,0.420267458463136,positive,68,positive
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,positive,52,positive
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,positive,61,positive
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,positive,17,positive
+Intercropping,Gross Revenue,105,12,0.845350241545894,positive,21,positive
+Intercropping,Profit,201,16,0.715082948717949,positive,30,positive
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,positive,22,positive
+Intercropping+Rotation,Gross Revenue,7,3,1.5,positive,1,positive
+Rotation,Gross Revenue,21,9,1.00572519083969,positive,9,positive
+Intercropping+Rotation,Profit,9,4,0.970588235294118,positive,0,positive
+Rotation,Profit,56,17,0.590574297188755,positive,21,positive
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,positive,26,positive
+Reduced Irrigation,Profit,111,19,0.418806878306878,positive,28,positive
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,positive,29,positive
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,positive,52,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,positive,1,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,positive,0,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,positive,1,positive
+Agroforestry,Profit,36,9,-0.212649425287356,positive,12,positive
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,positive,26,positive
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,positive,0,positive
+Agroforestry+Reduced Irrigation,Profit,4,1,1,positive,1,positive
+Agroforestry+Reduced Irrigation,Cost,8,1,0,positive,0,positive
+Reduced Irrigation,Cost,95,17,0.103508771929825,positive,2,positive
+Residue/Mulch,Cost,179,36,0.304019283746556,positive,44,positive
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,positive,29,positive
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,positive,0,positive
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,positive,7,positive
+Reduced Fert,Profit,341,37,-0.281331953036066,positive,34,positive
+Controlled Release Fert,Profit,8,2,-0.5,positive,0,positive
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,positive,0,positive
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,positive,0,positive
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,positive,0,positive
+Controlled Release Fert,Labour Cost,4,1,0,positive,0,positive
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,positive,45,positive
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,positive,9,positive
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,positive,0,positive
+IPM,Profit,9,4,-0.111111111111111,positive,4,positive
+Rotation,Returns to Labour,54,1,1.68518518518519,positive,12,positive
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,positive,4,positive
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,positive,14,positive
+Intercropping,Cost,109,12,0.721358024691358,positive,51,positive
+Reduced Fert,Cost,280,34,-0.0725071225071225,positive,28,positive
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,positive,3,positive
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,positive,1,positive
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,positive,8,positive
+Reduced Erosion,Profit,21,4,0.706147058823529,positive,12,positive
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,positive,16,positive
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,positive,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,positive,0,positive
+Reduced Erosion+Organic Fert,Profit,1,1,0,positive,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,positive,1,positive
+Reduced Erosion+Organic Fert,Cost,1,1,1,positive,1,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,positive,0,positive
+Organic Fert,Labour Cost,4,1,1.5,positive,2,positive
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,positive,1,positive
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,positive,2,positive
+Organic Fert,Cost,97,16,1.05816993464052,positive,44,positive
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,positive,9,positive
+Reduced Erosion,Cost,11,3,0.416666666666667,positive,2,positive
+Organic Fert,Gross Revenue,95,15,1.25260416666667,positive,23,positive
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,positive,24,positive
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,positive,9,positive
+Organic Fert,Profit,132,20,0.988925081433225,positive,31,positive
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,positive,22,positive
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,positive,0,positive
+Intercropping,Labour Cost per Asset,18,1,2,positive,0,positive
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,positive,0,positive
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,positive,1,positive
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,positive,7,positive
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,positive,0,positive
+IPM,Gross Revenue,6,3,0.0476190476190476,positive,2,positive
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,positive,0,positive
+IPM,Cost,6,3,1.02380952380952,positive,2,positive
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,positive,1,positive
+IPM,Labour Cost,2,1,0.5,positive,1,positive
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,positive,1,positive
+Biochar,Cost,91,10,0.770161290322581,positive,25,positive
+Agroforestry+Organic Fert,Profit,1,1,-1,positive,0,positive
+Agroforestry,Cost,32,8,-0.294871794871795,positive,7,positive
+Agroforestry+Organic Fert,Cost,1,1,-1,positive,0,positive
+Agroforestry+Reduced Fert,Profit,3,2,-1,positive,0,positive
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,positive,0,positive
+Cover Crops+Residue/Mulch,Cost,11,3,0,positive,2,positive
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,positive,5,positive
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,positive,3,positive
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,positive,7,positive
+"",Profit,12,3,0.500333333333333,positive,3,positive
+"",Cost,9,2,-0.666666666666667,positive,0,positive
+"",Gross Revenue,9,2,0.25,positive,3,positive
+IPM,Benefit Cost Ratio,8,2,-0.5,positive,6,positive
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,positive,12,positive
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,positive,4,positive
+Residue/Mulch,Present Value of Benefit,2,1,2,positive,0,positive
+Residue/Mulch,Present Value of Cost,2,1,0,positive,0,positive
+Residue/Mulch,Net Present Value,2,1,2,positive,0,positive
+Residue/Mulch,Return on Investment,2,1,2,positive,0,positive
+Cover Crops,Cost,31,8,0.690697674418605,positive,4,positive
+Cover Crops,Gross Revenue,33,7,0.705585980284775,positive,2,positive
+Cover Crops,Profit,28,9,0.131111111111111,positive,7,positive
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,positive,3,positive
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,positive,3,positive
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,positive,0,positive
+Rotation,Cost,37,12,1.70454545454545,positive,23,positive
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,positive,34,positive
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,positive,2,positive
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,positive,1,positive
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,positive,6,positive
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,positive,2,positive
+Cover Crops+Reduced Fert,Cost,1,1,0,positive,0,positive
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,positive,0,positive
+Reduced Irrigation+Rotation,Profit,4,1,0.5,positive,2,positive
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,positive,7,positive
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,positive,14,positive
+Intercropping+Rotation,Cost,8,4,0.764705882352941,positive,1,positive
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,positive,1,positive
+Residue/Mulch+Rotation,Profit,7,3,1.55,positive,1,positive
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,positive,1,positive
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,positive,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,positive,0,positive
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,positive,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,positive,0,positive
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,positive,0,positive
+Intercropping+Reduced Tillage,Cost,6,2,0.625,positive,4,positive
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,positive,2,positive
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,positive,2,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,positive,2,positive
+Agroforestry+Reduced Tillage,Cost,2,1,-1,positive,0,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,positive,0,positive
+Intercropping+Reduced Tillage,Profit,6,2,1.375,positive,1,positive
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,positive,1,positive
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,positive,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,positive,0,positive
+Agroforestry+Reduced Tillage,Profit,2,1,0,positive,1,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,positive,0,positive
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,positive,1,positive
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,positive,1,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,positive,1,positive
+Organic Fert+Residue/Mulch,Cost,1,1,1,positive,1,positive
+Organic Fert+Reduced Tillage,Cost,7,2,0,positive,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,positive,1,positive
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,positive,27,positive
+Controlled Release Fert,Gross Revenue,4,1,0,positive,0,positive
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,positive,0,positive
+Controlled Release Fert,Cost,4,1,0,positive,0,positive
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,positive,0,positive
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,positive,7,positive
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,positive,4,positive
+Agroforestry,Net Present Value,53,3,-0.286981481481482,positive,21,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,positive,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,positive,0,positive
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,positive,1,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,positive,1,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,positive,0,positive
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,positive,1,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,positive,1,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,positive,1,positive
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,positive,0,positive
+Cover Crops+Reduced Tillage,Cost,1,1,0,positive,0,positive
+Cover Crops+Reduced Tillage,Profit,1,1,-1,positive,0,positive
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,positive,1,positive
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,positive,1,positive
+Residue/Mulch,Labour Cost,5,2,1.5,positive,2,positive
+Reduced Tillage+Rotation,Net Present Value,2,1,2,positive,0,positive
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,positive,0,positive
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,positive,1,positive
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,positive,1,positive
+Intercropping+Reduced Tillage,Payback Period,3,1,2,positive,0,positive
+Reduced Tillage+Rotation,Payback Period,2,1,2,positive,0,positive
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,positive,0,positive
+Rotation,Net Present Value,2,1,1.5005,positive,0,positive
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,positive,0,positive
+Rotation,Internal Rate of Return,2,1,2,positive,0,positive
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,positive,0,positive
+Rotation,Payback Period,2,1,2,positive,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,positive,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,positive,0,positive
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,positive,0,positive
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,positive,0,positive
+Residue/Mulch+Rotation,Cost,6,2,0.5,positive,4,positive
+Reduced Tillage,Fixed Cost,4,1,0,positive,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,positive,2,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,positive,2,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,positive,1,positive
+Cover Crops,Return on Investment,2,1,1,positive,2,positive
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,positive,0,positive
+Intercropping,Net Present Value,1,1,1.001,positive,0,positive
+"",Benefit Cost Ratio,10,3,0.722222222222222,positive,4,positive
+"",Net Present Value,1,1,2,positive,0,positive
+Reduced Irrigation,Labour Cost,1,1,-2,positive,0,positive
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,positive,1,positive
+Reduced Fert,Labour Cost,12,1,0.916666666666667,positive,11,positive
+Residue/Mulch,Return to Labour,2,1,-0.5005,positive,0,positive
+Organic Fert,Return to Labour,2,1,-1.0005,positive,0,positive
+Reduced Fert,Return to Labour,4,1,0.5,positive,1,positive
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,positive,0,positive
+Reduced Fert+Intercropping,Cost,2,1,-1,positive,0,positive
+Reduced Fert+Intercropping,Profit,2,1,0.5,positive,1,positive
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,positive,2,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,positive,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,positive,0,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,positive,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,positive,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,positive,0,positive
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,positive,0,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,positive,0,positive
+Agroforestry,Present Value of Benefit,2,1,2,positive,0,positive
+Agroforestry,Present Value of Cost,2,1,1,positive,0,positive
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,positive,0,positive
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,positive,2,positive
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,positive,0,positive
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,positive,2,positive
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,positive,6,positive
+Reduced Erosion+Reduced Fert,Profit,3,1,1,positive,3,positive
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,positive,4,positive
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,positive,6,positive
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,positive,0,positive
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,positive,0,positive
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,positive,1,positive
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,positive,1,positive
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,positive,15,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,positive,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,positive,0,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,positive,0,positive
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,positive,5,positive
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,positive,0,positive
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,positive,4,positive
+Biochar+Organic Fert,Cost,20,1,1.65,positive,7,positive
+Biochar+Organic Fert,Gross Revenue,20,1,2,positive,0,positive
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,positive,5,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,positive,2,positive
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,positive,1,positive
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,positive,1,positive
+Intercropping+Organic Fert,Profit,2,1,2,positive,0,positive
+Organic Fert+Rotation,Profit,2,1,2,positive,0,positive
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,positive,9,positive
+Cover Crops,Labour Cost,5,1,-0.2,positive,1,positive
+Cover Crops,Internal Rate of Return,5,1,1.001,positive,0,positive
+Cover Crops,Net Present Value,5,1,1.001,positive,0,positive
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,positive,0,positive
+Organic Fert+Residue/Mulch,Profit,1,1,1,positive,1,positive
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,positive,0,positive
+Biochar+Organic Fert,Profit,20,1,2,positive,0,positive
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,positive,3,positive
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,positive,0,positive
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,positive,0,positive
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,positive,0,positive
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,positive,0,positive
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,positive,0,positive
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,positive,2,positive
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,positive,0,positive
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive,0,positive
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive,0,positive
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,positive,1,positive
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,positive,0,positive
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,positive,0,positive
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,positive,0,positive
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,positive,1,positive
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,positive,0,positive
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,positive,0,positive
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,positive,1,positive
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,positive,0,positive
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,positive,0,positive
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,positive,1,positive
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,positive,0,positive
+All Nbs,Cost,1605,158,0.451993228502717,positive,320,positive
+All Nbs,Profit,2195,182,0.483345336179548,positive,518,positive
+All Nbs,Gross Revenue,1442,138,0.532112617288316,positive,335,positive
+All Nbs,Labour Cost,59,11,0.053030303030303,positive,26,positive
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,positive,487,positive
+All Nbs,Returns to Labour,99,1,1.18181818181818,positive,30,positive
+All Nbs,Labour Cost per Asset,19,2,1.5,positive,1,positive
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,positive,1,positive
+All Nbs,Present Value of Benefit,4,2,2,positive,0,positive
+All Nbs,Present Value of Cost,4,2,0.2,positive,0,positive
+All Nbs,Net Present Value,77,7,0.916485303617571,positive,22,positive
+All Nbs,Return on Investment,4,2,1.57142857142857,positive,2,positive
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,positive,1,positive
+All Nbs,Payback Period,9,1,2,positive,0,positive
+All Nbs,Fixed Cost,4,1,0,positive,0,positive
+All Nbs,Return to Labour,8,1,-0.12525,positive,1,positive
+Improved Livestock Diet,Cost,1,1,2,neutral,0,neutral
+Improved Livestock Diet,Profit,1,1,2,neutral,0,neutral
+Reduced Tillage,Cost,204,45,-0.443352601156069,neutral,138,neutral
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,neutral,0,neutral
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,neutral,91,neutral
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,neutral,4,neutral
+Reduced Tillage,Profit,267,49,0.475297397945391,neutral,70,neutral
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,neutral,1,neutral
+Reduced Tillage,Labour Cost,3,2,1,neutral,0,neutral
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,neutral,0,neutral
+Biochar,Gross Revenue,79,9,0.420386904761905,neutral,39,neutral
+Biochar,Profit,91,10,0.368279569892473,neutral,37,neutral
+Agroforestry,Gross Revenue,29,7,0.11969696969697,neutral,8,neutral
+Intercropping+Residue/Mulch,Profit,3,1,1,neutral,0,neutral
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,neutral,0,neutral
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,neutral,0,neutral
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,neutral,32,neutral
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,neutral,40,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,neutral,4,neutral
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,neutral,25,neutral
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,neutral,18,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,neutral,1,neutral
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,neutral,27,neutral
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,neutral,22,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,neutral,1,neutral
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,neutral,67,neutral
+Residue/Mulch,Profit,270,42,0.420267458463136,neutral,71,neutral
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,neutral,105,neutral
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,neutral,102,neutral
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,neutral,22,neutral
+Intercropping,Gross Revenue,105,12,0.845350241545894,neutral,35,neutral
+Intercropping,Profit,201,16,0.715082948717949,neutral,25,neutral
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,neutral,36,neutral
+Intercropping+Rotation,Gross Revenue,7,3,1.5,neutral,0,neutral
+Rotation,Gross Revenue,21,9,1.00572519083969,neutral,3,neutral
+Intercropping+Rotation,Profit,9,4,0.970588235294118,neutral,0,neutral
+Rotation,Profit,56,17,0.590574297188755,neutral,12,neutral
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,neutral,53,neutral
+Reduced Irrigation,Profit,111,19,0.418806878306878,neutral,37,neutral
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,neutral,53,neutral
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,neutral,27,neutral
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,neutral,1,neutral
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,neutral,1,neutral
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,neutral,1,neutral
+Agroforestry,Profit,36,9,-0.212649425287356,neutral,4,neutral
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,neutral,33,neutral
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,neutral,0,neutral
+Agroforestry+Reduced Irrigation,Profit,4,1,1,neutral,0,neutral
+Agroforestry+Reduced Irrigation,Cost,8,1,0,neutral,0,neutral
+Reduced Irrigation,Cost,95,17,0.103508771929825,neutral,87,neutral
+Residue/Mulch,Cost,179,36,0.304019283746556,neutral,116,neutral
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,neutral,83,neutral
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,neutral,1,neutral
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,neutral,8,neutral
+Reduced Fert,Profit,341,37,-0.281331953036066,neutral,79,neutral
+Controlled Release Fert,Profit,8,2,-0.5,neutral,4,neutral
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,neutral,2,neutral
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,neutral,6,neutral
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,neutral,2,neutral
+Controlled Release Fert,Labour Cost,4,1,0,neutral,4,neutral
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,neutral,111,neutral
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,neutral,8,neutral
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,neutral,2,neutral
+IPM,Profit,9,4,-0.111111111111111,neutral,1,neutral
+Rotation,Returns to Labour,54,1,1.68518518518519,neutral,1,neutral
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,neutral,0,neutral
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,neutral,1,neutral
+Intercropping,Cost,109,12,0.721358024691358,neutral,42,neutral
+Reduced Fert,Cost,280,34,-0.0725071225071225,neutral,124,neutral
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,neutral,1,neutral
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,neutral,0,neutral
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,neutral,8,neutral
+Reduced Erosion,Profit,21,4,0.706147058823529,neutral,1,neutral
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,neutral,3,neutral
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,neutral,1,neutral
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,neutral,0,neutral
+Reduced Erosion+Organic Fert,Profit,1,1,0,neutral,1,neutral
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,neutral,0,neutral
+Reduced Erosion+Organic Fert,Cost,1,1,1,neutral,0,neutral
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,neutral,0,neutral
+Organic Fert,Labour Cost,4,1,1.5,neutral,0,neutral
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,neutral,3,neutral
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,neutral,0,neutral
+Organic Fert,Cost,97,16,1.05816993464052,neutral,24,neutral
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,neutral,26,neutral
+Reduced Erosion,Cost,11,3,0.416666666666667,neutral,5,neutral
+Organic Fert,Gross Revenue,95,15,1.25260416666667,neutral,14,neutral
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,neutral,14,neutral
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,neutral,2,neutral
+Organic Fert,Profit,132,20,0.988925081433225,neutral,24,neutral
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,neutral,5,neutral
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,neutral,0,neutral
+Intercropping,Labour Cost per Asset,18,1,2,neutral,0,neutral
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,neutral,0,neutral
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,neutral,6,neutral
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,neutral,11,neutral
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,neutral,0,neutral
+IPM,Gross Revenue,6,3,0.0476190476190476,neutral,3,neutral
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,neutral,0,neutral
+IPM,Cost,6,3,1.02380952380952,neutral,2,neutral
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,neutral,0,neutral
+IPM,Labour Cost,2,1,0.5,neutral,1,neutral
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,neutral,0,neutral
+Biochar,Cost,91,10,0.770161290322581,neutral,36,neutral
+Agroforestry+Organic Fert,Profit,1,1,-1,neutral,0,neutral
+Agroforestry,Cost,32,8,-0.294871794871795,neutral,8,neutral
+Agroforestry+Organic Fert,Cost,1,1,-1,neutral,0,neutral
+Agroforestry+Reduced Fert,Profit,3,2,-1,neutral,0,neutral
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,neutral,2,neutral
+Cover Crops+Residue/Mulch,Cost,11,3,0,neutral,7,neutral
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,neutral,3,neutral
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,neutral,0,neutral
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,neutral,2,neutral
+"",Profit,12,3,0.500333333333333,neutral,6,neutral
+"",Cost,9,2,-0.666666666666667,neutral,6,neutral
+"",Gross Revenue,9,2,0.25,neutral,6,neutral
+IPM,Benefit Cost Ratio,8,2,-0.5,neutral,0,neutral
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,neutral,4,neutral
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,neutral,0,neutral
+Residue/Mulch,Present Value of Benefit,2,1,2,neutral,0,neutral
+Residue/Mulch,Present Value of Cost,2,1,0,neutral,2,neutral
+Residue/Mulch,Net Present Value,2,1,2,neutral,0,neutral
+Residue/Mulch,Return on Investment,2,1,2,neutral,0,neutral
+Cover Crops,Cost,31,8,0.690697674418605,neutral,15,neutral
+Cover Crops,Gross Revenue,33,7,0.705585980284775,neutral,14,neutral
+Cover Crops,Profit,28,9,0.131111111111111,neutral,8,neutral
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,neutral,13,neutral
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,neutral,6,neutral
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,neutral,3,neutral
+Rotation,Cost,37,12,1.70454545454545,neutral,8,neutral
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,neutral,31,neutral
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,neutral,6,neutral
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,neutral,0,neutral
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,neutral,0,neutral
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,neutral,0,neutral
+Cover Crops+Reduced Fert,Cost,1,1,0,neutral,1,neutral
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,neutral,0,neutral
+Reduced Irrigation+Rotation,Profit,4,1,0.5,neutral,2,neutral
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,neutral,6,neutral
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,neutral,14,neutral
+Intercropping+Rotation,Cost,8,4,0.764705882352941,neutral,0,neutral
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,neutral,1,neutral
+Residue/Mulch+Rotation,Profit,7,3,1.55,neutral,1,neutral
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,neutral,0,neutral
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,neutral,1,neutral
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,neutral,1,neutral
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,neutral,1,neutral
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,neutral,0,neutral
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,neutral,0,neutral
+Intercropping+Reduced Tillage,Cost,6,2,0.625,neutral,1,neutral
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,neutral,0,neutral
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,neutral,0,neutral
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,neutral,0,neutral
+Agroforestry+Reduced Tillage,Cost,2,1,-1,neutral,0,neutral
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,neutral,0,neutral
+Intercropping+Reduced Tillage,Profit,6,2,1.375,neutral,1,neutral
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,neutral,0,neutral
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,neutral,0,neutral
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,neutral,0,neutral
+Agroforestry+Reduced Tillage,Profit,2,1,0,neutral,0,neutral
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,neutral,0,neutral
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,neutral,0,neutral
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,neutral,6,neutral
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,neutral,0,neutral
+Organic Fert+Residue/Mulch,Cost,1,1,1,neutral,0,neutral
+Organic Fert+Reduced Tillage,Cost,7,2,0,neutral,7,neutral
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,neutral,0,neutral
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,neutral,17,neutral
+Controlled Release Fert,Gross Revenue,4,1,0,neutral,4,neutral
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,neutral,2,neutral
+Controlled Release Fert,Cost,4,1,0,neutral,4,neutral
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,neutral,2,neutral
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,neutral,58,neutral
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,neutral,0,neutral
+Agroforestry,Net Present Value,53,3,-0.286981481481482,neutral,0,neutral
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,neutral,1,neutral
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,neutral,1,neutral
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,neutral,0,neutral
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,neutral,1,neutral
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,neutral,0,neutral
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,neutral,0,neutral
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,neutral,1,neutral
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,neutral,0,neutral
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,neutral,0,neutral
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,neutral,0,neutral
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,neutral,0,neutral
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,neutral,0,neutral
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,neutral,0,neutral
+Cover Crops+Reduced Tillage,Cost,1,1,0,neutral,1,neutral
+Cover Crops+Reduced Tillage,Profit,1,1,-1,neutral,0,neutral
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,neutral,1,neutral
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,neutral,1,neutral
+Residue/Mulch,Labour Cost,5,2,1.5,neutral,0,neutral
+Reduced Tillage+Rotation,Net Present Value,2,1,2,neutral,0,neutral
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,neutral,0,neutral
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,neutral,0,neutral
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,neutral,0,neutral
+Intercropping+Reduced Tillage,Payback Period,3,1,2,neutral,0,neutral
+Reduced Tillage+Rotation,Payback Period,2,1,2,neutral,0,neutral
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,neutral,0,neutral
+Rotation,Net Present Value,2,1,1.5005,neutral,0,neutral
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,neutral,0,neutral
+Rotation,Internal Rate of Return,2,1,2,neutral,0,neutral
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,neutral,0,neutral
+Rotation,Payback Period,2,1,2,neutral,0,neutral
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,neutral,0,neutral
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,neutral,0,neutral
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,neutral,0,neutral
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,neutral,2,neutral
+Residue/Mulch+Rotation,Cost,6,2,0.5,neutral,2,neutral
+Reduced Tillage,Fixed Cost,4,1,0,neutral,4,neutral
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,neutral,1,neutral
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,neutral,0,neutral
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,neutral,1,neutral
+Cover Crops,Return on Investment,2,1,1,neutral,0,neutral
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,neutral,0,neutral
+Intercropping,Net Present Value,1,1,1.001,neutral,0,neutral
+"",Benefit Cost Ratio,10,3,0.722222222222222,neutral,4,neutral
+"",Net Present Value,1,1,2,neutral,0,neutral
+Reduced Irrigation,Labour Cost,1,1,-2,neutral,0,neutral
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,neutral,0,neutral
+Reduced Fert,Labour Cost,12,1,0.916666666666667,neutral,1,neutral
+Residue/Mulch,Return to Labour,2,1,-0.5005,neutral,1,neutral
+Organic Fert,Return to Labour,2,1,-1.0005,neutral,0,neutral
+Reduced Fert,Return to Labour,4,1,0.5,neutral,1,neutral
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,neutral,0,neutral
+Reduced Fert+Intercropping,Cost,2,1,-1,neutral,0,neutral
+Reduced Fert+Intercropping,Profit,2,1,0.5,neutral,1,neutral
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,neutral,0,neutral
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,neutral,0,neutral
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,neutral,0,neutral
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,neutral,8,neutral
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,neutral,0,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,neutral,8,neutral
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,neutral,0,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,neutral,0,neutral
+Agroforestry,Present Value of Benefit,2,1,2,neutral,0,neutral
+Agroforestry,Present Value of Cost,2,1,1,neutral,1,neutral
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,neutral,10,neutral
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,neutral,7,neutral
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,neutral,2,neutral
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,neutral,1,neutral
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,neutral,0,neutral
+Reduced Erosion+Reduced Fert,Profit,3,1,1,neutral,0,neutral
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,neutral,0,neutral
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,neutral,0,neutral
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,neutral,2,neutral
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,neutral,1,neutral
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,neutral,6,neutral
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,neutral,12,neutral
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,neutral,0,neutral
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,neutral,1,neutral
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,neutral,1,neutral
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,neutral,1,neutral
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,neutral,7,neutral
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,neutral,2,neutral
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,neutral,2,neutral
+Biochar+Organic Fert,Cost,20,1,1.65,neutral,0,neutral
+Biochar+Organic Fert,Gross Revenue,20,1,2,neutral,0,neutral
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,neutral,0,neutral
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,neutral,0,neutral
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,neutral,0,neutral
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,neutral,0,neutral
+Intercropping+Organic Fert,Profit,2,1,2,neutral,0,neutral
+Organic Fert+Rotation,Profit,2,1,2,neutral,0,neutral
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,neutral,1,neutral
+Cover Crops,Labour Cost,5,1,-0.2,neutral,3,neutral
+Cover Crops,Internal Rate of Return,5,1,1.001,neutral,0,neutral
+Cover Crops,Net Present Value,5,1,1.001,neutral,0,neutral
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,neutral,1,neutral
+Organic Fert+Residue/Mulch,Profit,1,1,1,neutral,0,neutral
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,neutral,2,neutral
+Biochar+Organic Fert,Profit,20,1,2,neutral,0,neutral
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,neutral,0,neutral
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,neutral,1,neutral
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,neutral,0,neutral
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,neutral,0,neutral
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,neutral,0,neutral
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,neutral,0,neutral
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,neutral,1,neutral
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,neutral,1,neutral
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,neutral,0,neutral
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,neutral,0,neutral
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,neutral,1,neutral
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,neutral,1,neutral
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,neutral,0,neutral
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,neutral,1,neutral
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,neutral,0,neutral
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,neutral,4,neutral
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,neutral,2,neutral
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,neutral,1,neutral
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,neutral,0,neutral
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,neutral,0,neutral
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,neutral,2,neutral
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,neutral,0,neutral
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,neutral,0,neutral
+All Nbs,Cost,1605,158,0.451993228502717,neutral,775,neutral
+All Nbs,Profit,2195,182,0.483345336179548,neutral,477,neutral
+All Nbs,Gross Revenue,1442,138,0.532112617288316,neutral,558,neutral
+All Nbs,Labour Cost,59,11,0.053030303030303,neutral,20,neutral
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,neutral,674,neutral
+All Nbs,Returns to Labour,99,1,1.18181818181818,neutral,2,neutral
+All Nbs,Labour Cost per Asset,19,2,1.5,neutral,0,neutral
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,neutral,3,neutral
+All Nbs,Present Value of Benefit,4,2,2,neutral,0,neutral
+All Nbs,Present Value of Cost,4,2,0.2,neutral,3,neutral
+All Nbs,Net Present Value,77,7,0.916485303617571,neutral,0,neutral
+All Nbs,Return on Investment,4,2,1.57142857142857,neutral,0,neutral
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,neutral,0,neutral
+All Nbs,Payback Period,9,1,2,neutral,0,neutral
+All Nbs,Fixed Cost,4,1,0,neutral,4,neutral
+All Nbs,Return to Labour,8,1,-0.12525,neutral,2,neutral
+Improved Livestock Diet,Cost,1,1,2,negative,0,negative
+Improved Livestock Diet,Profit,1,1,2,negative,0,negative
+Reduced Tillage,Cost,204,45,-0.443352601156069,negative,49,negative
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,negative,6,negative
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,negative,53,negative
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,negative,0,negative
+Reduced Tillage,Profit,267,49,0.475297397945391,negative,54,negative
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,negative,0,negative
+Reduced Tillage,Labour Cost,3,2,1,negative,0,negative
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,negative,0,negative
+Biochar,Gross Revenue,79,9,0.420386904761905,negative,3,negative
+Biochar,Profit,91,10,0.368279569892473,negative,11,negative
+Agroforestry,Gross Revenue,29,7,0.11969696969697,negative,6,negative
+Intercropping+Residue/Mulch,Profit,3,1,1,negative,0,negative
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,negative,0,negative
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,negative,0,negative
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,negative,12,negative
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,negative,2,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,negative,2,negative
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,negative,20,negative
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,negative,6,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,negative,2,negative
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,negative,26,negative
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,negative,35,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,negative,17,negative
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,negative,16,negative
+Residue/Mulch,Profit,270,42,0.420267458463136,negative,24,negative
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,negative,49,negative
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,negative,59,negative
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,negative,18,negative
+Intercropping,Gross Revenue,105,12,0.845350241545894,negative,6,negative
+Intercropping,Profit,201,16,0.715082948717949,negative,20,negative
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,negative,15,negative
+Intercropping+Rotation,Gross Revenue,7,3,1.5,negative,0,negative
+Rotation,Gross Revenue,21,9,1.00572519083969,negative,1,negative
+Intercropping+Rotation,Profit,9,4,0.970588235294118,negative,1,negative
+Rotation,Profit,56,17,0.590574297188755,negative,4,negative
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,negative,5,negative
+Reduced Irrigation,Profit,111,19,0.418806878306878,negative,14,negative
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,negative,5,negative
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,negative,2,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,negative,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,negative,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,negative,0,negative
+Agroforestry,Profit,36,9,-0.212649425287356,negative,4,negative
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,negative,11,negative
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,negative,2,negative
+Agroforestry+Reduced Irrigation,Profit,4,1,1,negative,1,negative
+Agroforestry+Reduced Irrigation,Cost,8,1,0,negative,0,negative
+Reduced Irrigation,Cost,95,17,0.103508771929825,negative,4,negative
+Residue/Mulch,Cost,179,36,0.304019283746556,negative,11,negative
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,negative,107,negative
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,negative,5,negative
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,negative,14,negative
+Reduced Fert,Profit,341,37,-0.281331953036066,negative,129,negative
+Controlled Release Fert,Profit,8,2,-0.5,negative,4,negative
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,negative,0,negative
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,negative,0,negative
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,negative,0,negative
+Controlled Release Fert,Labour Cost,4,1,0,negative,0,negative
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,negative,97,negative
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,negative,4,negative
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,negative,6,negative
+IPM,Profit,9,4,-0.111111111111111,negative,3,negative
+Rotation,Returns to Labour,54,1,1.68518518518519,negative,1,negative
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,negative,12,negative
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,negative,0,negative
+Intercropping,Cost,109,12,0.721358024691358,negative,4,negative
+Reduced Fert,Cost,280,34,-0.0725071225071225,negative,92,negative
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,negative,1,negative
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,negative,0,negative
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,negative,3,negative
+Reduced Erosion,Profit,21,4,0.706147058823529,negative,3,negative
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,negative,5,negative
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,negative,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,negative,0,negative
+Reduced Erosion+Organic Fert,Profit,1,1,0,negative,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,negative,0,negative
+Reduced Erosion+Organic Fert,Cost,1,1,1,negative,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,negative,0,negative
+Organic Fert,Labour Cost,4,1,1.5,negative,0,negative
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,negative,0,negative
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,negative,0,negative
+Organic Fert,Cost,97,16,1.05816993464052,negative,0,negative
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,negative,2,negative
+Reduced Erosion,Cost,11,3,0.416666666666667,negative,0,negative
+Organic Fert,Gross Revenue,95,15,1.25260416666667,negative,0,negative
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,negative,0,negative
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,negative,0,negative
+Organic Fert,Profit,132,20,0.988925081433225,negative,9,negative
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,negative,11,negative
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,negative,0,negative
+Intercropping,Labour Cost per Asset,18,1,2,negative,0,negative
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,negative,0,negative
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,negative,0,negative
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,negative,1,negative
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,negative,1,negative
+IPM,Gross Revenue,6,3,0.0476190476190476,negative,1,negative
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,negative,1,negative
+IPM,Cost,6,3,1.02380952380952,negative,1,negative
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,negative,0,negative
+IPM,Labour Cost,2,1,0.5,negative,0,negative
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,negative,0,negative
+Biochar,Cost,91,10,0.770161290322581,negative,0,negative
+Agroforestry+Organic Fert,Profit,1,1,-1,negative,1,negative
+Agroforestry,Cost,32,8,-0.294871794871795,negative,1,negative
+Agroforestry+Organic Fert,Cost,1,1,-1,negative,1,negative
+Agroforestry+Reduced Fert,Profit,3,2,-1,negative,3,negative
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,negative,1,negative
+Cover Crops+Residue/Mulch,Cost,11,3,0,negative,2,negative
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,negative,0,negative
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,negative,0,negative
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,negative,0,negative
+"",Profit,12,3,0.500333333333333,negative,0,negative
+"",Cost,9,2,-0.666666666666667,negative,2,negative
+"",Gross Revenue,9,2,0.25,negative,0,negative
+IPM,Benefit Cost Ratio,8,2,-0.5,negative,2,negative
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,negative,10,negative
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,negative,4,negative
+Residue/Mulch,Present Value of Benefit,2,1,2,negative,0,negative
+Residue/Mulch,Present Value of Cost,2,1,0,negative,0,negative
+Residue/Mulch,Net Present Value,2,1,2,negative,0,negative
+Residue/Mulch,Return on Investment,2,1,2,negative,0,negative
+Cover Crops,Cost,31,8,0.690697674418605,negative,0,negative
+Cover Crops,Gross Revenue,33,7,0.705585980284775,negative,3,negative
+Cover Crops,Profit,28,9,0.131111111111111,negative,4,negative
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,negative,5,negative
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,negative,0,negative
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,negative,6,negative
+Rotation,Cost,37,12,1.70454545454545,negative,1,negative
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,negative,13,negative
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,negative,1,negative
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,negative,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,negative,2,negative
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,negative,0,negative
+Cover Crops+Reduced Fert,Cost,1,1,0,negative,0,negative
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,negative,0,negative
+Reduced Irrigation+Rotation,Profit,4,1,0.5,negative,0,negative
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,negative,5,negative
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,negative,10,negative
+Intercropping+Rotation,Cost,8,4,0.764705882352941,negative,1,negative
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,negative,12,negative
+Residue/Mulch+Rotation,Profit,7,3,1.55,negative,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,negative,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,negative,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,negative,0,negative
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,negative,1,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,negative,2,negative
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,negative,2,negative
+Intercropping+Reduced Tillage,Cost,6,2,0.625,negative,1,negative
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,negative,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,negative,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,negative,0,negative
+Agroforestry+Reduced Tillage,Cost,2,1,-1,negative,2,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,negative,2,negative
+Intercropping+Reduced Tillage,Profit,6,2,1.375,negative,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,negative,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,negative,1,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,negative,1,negative
+Agroforestry+Reduced Tillage,Profit,2,1,0,negative,1,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,negative,1,negative
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,negative,0,negative
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,negative,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,negative,0,negative
+Organic Fert+Residue/Mulch,Cost,1,1,1,negative,0,negative
+Organic Fert+Reduced Tillage,Cost,7,2,0,negative,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,negative,0,negative
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,negative,1,negative
+Controlled Release Fert,Gross Revenue,4,1,0,negative,0,negative
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,negative,0,negative
+Controlled Release Fert,Cost,4,1,0,negative,0,negative
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,negative,0,negative
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,negative,9,negative
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,negative,16,negative
+Agroforestry,Net Present Value,53,3,-0.286981481481482,negative,1,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,negative,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,negative,4,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,negative,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,negative,3,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,negative,0,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,negative,1,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,negative,1,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,negative,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,negative,1,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,negative,1,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,negative,2,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,negative,0,negative
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,negative,1,negative
+Cover Crops+Reduced Tillage,Cost,1,1,0,negative,0,negative
+Cover Crops+Reduced Tillage,Profit,1,1,-1,negative,1,negative
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,negative,0,negative
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,negative,1,negative
+Residue/Mulch,Labour Cost,5,2,1.5,negative,0,negative
+Reduced Tillage+Rotation,Net Present Value,2,1,2,negative,0,negative
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,negative,0,negative
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,negative,0,negative
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,negative,0,negative
+Intercropping+Reduced Tillage,Payback Period,3,1,2,negative,0,negative
+Reduced Tillage+Rotation,Payback Period,2,1,2,negative,0,negative
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,negative,0,negative
+Rotation,Net Present Value,2,1,1.5005,negative,0,negative
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,negative,0,negative
+Rotation,Internal Rate of Return,2,1,2,negative,0,negative
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,negative,0,negative
+Rotation,Payback Period,2,1,2,negative,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,negative,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,negative,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,negative,0,negative
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,negative,0,negative
+Residue/Mulch+Rotation,Cost,6,2,0.5,negative,0,negative
+Reduced Tillage,Fixed Cost,4,1,0,negative,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,negative,1,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,negative,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,negative,2,negative
+Cover Crops,Return on Investment,2,1,1,negative,0,negative
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,negative,3,negative
+Intercropping,Net Present Value,1,1,1.001,negative,0,negative
+"",Benefit Cost Ratio,10,3,0.722222222222222,negative,0,negative
+"",Net Present Value,1,1,2,negative,0,negative
+Reduced Irrigation,Labour Cost,1,1,-2,negative,0,negative
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,negative,1,negative
+Reduced Fert,Labour Cost,12,1,0.916666666666667,negative,0,negative
+Residue/Mulch,Return to Labour,2,1,-0.5005,negative,0,negative
+Organic Fert,Return to Labour,2,1,-1.0005,negative,1,negative
+Reduced Fert,Return to Labour,4,1,0.5,negative,1,negative
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,negative,0,negative
+Reduced Fert+Intercropping,Cost,2,1,-1,negative,2,negative
+Reduced Fert+Intercropping,Profit,2,1,0.5,negative,0,negative
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,negative,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,negative,5,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,negative,2,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,negative,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,negative,4,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,negative,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,negative,4,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,negative,0,negative
+Agroforestry,Present Value of Benefit,2,1,2,negative,0,negative
+Agroforestry,Present Value of Cost,2,1,1,negative,0,negative
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,negative,6,negative
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,negative,7,negative
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,negative,1,negative
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,negative,0,negative
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,negative,0,negative
+Reduced Erosion+Reduced Fert,Profit,3,1,1,negative,0,negative
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,negative,0,negative
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,negative,0,negative
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,negative,0,negative
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,negative,0,negative
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,negative,0,negative
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,negative,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,negative,3,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,negative,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,negative,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,negative,0,negative
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,negative,12,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,negative,0,negative
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,negative,7,negative
+Biochar+Organic Fert,Cost,20,1,1.65,negative,0,negative
+Biochar+Organic Fert,Gross Revenue,20,1,2,negative,0,negative
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,negative,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,negative,0,negative
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,negative,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,negative,0,negative
+Intercropping+Organic Fert,Profit,2,1,2,negative,0,negative
+Organic Fert+Rotation,Profit,2,1,2,negative,0,negative
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,negative,0,negative
+Cover Crops,Labour Cost,5,1,-0.2,negative,0,negative
+Cover Crops,Internal Rate of Return,5,1,1.001,negative,0,negative
+Cover Crops,Net Present Value,5,1,1.001,negative,0,negative
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,negative,1,negative
+Organic Fert+Residue/Mulch,Profit,1,1,1,negative,0,negative
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,negative,0,negative
+Biochar+Organic Fert,Profit,20,1,2,negative,0,negative
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,negative,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,negative,1,negative
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,negative,0,negative
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,negative,1,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,negative,1,negative
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,negative,1,negative
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,negative,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,negative,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative,1,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative,1,negative
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,negative,1,negative
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,negative,2,negative
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,negative,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,negative,0,negative
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,negative,0,negative
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,negative,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,negative,1,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,negative,0,negative
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,negative,1,negative
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,negative,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,negative,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,negative,5,negative
+All Nbs,Cost,1605,158,0.451993228502717,negative,305,negative
+All Nbs,Profit,2195,182,0.483345336179548,negative,386,negative
+All Nbs,Gross Revenue,1442,138,0.532112617288316,negative,250,negative
+All Nbs,Labour Cost,59,11,0.053030303030303,negative,0,negative
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,negative,358,negative
+All Nbs,Returns to Labour,99,1,1.18181818181818,negative,13,negative
+All Nbs,Labour Cost per Asset,19,2,1.5,negative,0,negative
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,negative,1,negative
+All Nbs,Present Value of Benefit,4,2,2,negative,0,negative
+All Nbs,Present Value of Cost,4,2,0.2,negative,0,negative
+All Nbs,Net Present Value,77,7,0.916485303617571,negative,4,negative
+All Nbs,Return on Investment,4,2,1.57142857142857,negative,0,negative
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,negative,0,negative
+All Nbs,Payback Period,9,1,2,negative,0,negative
+All Nbs,Fixed Cost,4,1,0,negative,0,negative
+All Nbs,Return to Labour,8,1,-0.12525,negative,2,negative
+Improved Livestock Diet,Cost,1,1,2,negative_strong,0,negative
+Improved Livestock Diet,Profit,1,1,2,negative_strong,0,negative
+Reduced Tillage,Cost,204,45,-0.443352601156069,negative_strong,3,negative
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,negative_strong,0,negative
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,negative_strong,1,negative
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,negative_strong,0,negative
+Reduced Tillage,Profit,267,49,0.475297397945391,negative_strong,15,negative
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,negative_strong,0,negative
+Reduced Tillage,Labour Cost,3,2,1,negative_strong,0,negative
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,negative_strong,0,negative
+Biochar,Gross Revenue,79,9,0.420386904761905,negative_strong,0,negative
+Biochar,Profit,91,10,0.368279569892473,negative_strong,0,negative
+Agroforestry,Gross Revenue,29,7,0.11969696969697,negative_strong,1,negative
+Intercropping+Residue/Mulch,Profit,3,1,1,negative_strong,0,negative
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,negative_strong,0,negative
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,negative_strong,0,negative
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,negative_strong,0,negative
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,negative_strong,4,negative
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,negative_strong,2,negative
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,negative_strong,2,negative
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,negative_strong,1,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,negative_strong,0,negative
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,negative_strong,0,negative
+Residue/Mulch,Profit,270,42,0.420267458463136,negative_strong,21,negative
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,negative_strong,6,negative
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,negative_strong,2,negative
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,negative_strong,2,negative
+Intercropping,Gross Revenue,105,12,0.845350241545894,negative_strong,2,negative
+Intercropping,Profit,201,16,0.715082948717949,negative_strong,7,negative
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,negative_strong,8,negative
+Intercropping+Rotation,Gross Revenue,7,3,1.5,negative_strong,0,negative
+Rotation,Gross Revenue,21,9,1.00572519083969,negative_strong,0,negative
+Intercropping+Rotation,Profit,9,4,0.970588235294118,negative_strong,1,negative
+Rotation,Profit,56,17,0.590574297188755,negative_strong,2,negative
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,negative_strong,0,negative
+Reduced Irrigation,Profit,111,19,0.418806878306878,negative_strong,0,negative
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,negative_strong,4,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,negative_strong,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,negative_strong,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,negative_strong,0,negative
+Agroforestry,Profit,36,9,-0.212649425287356,negative_strong,4,negative
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,negative_strong,0,negative
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Irrigation,Profit,4,1,1,negative_strong,0,negative
+Agroforestry+Reduced Irrigation,Cost,8,1,0,negative_strong,4,negative
+Reduced Irrigation,Cost,95,17,0.103508771929825,negative_strong,0,negative
+Residue/Mulch,Cost,179,36,0.304019283746556,negative_strong,0,negative
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,negative_strong,26,negative
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,negative_strong,0,negative
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,negative_strong,7,negative
+Reduced Fert,Profit,341,37,-0.281331953036066,negative_strong,44,negative
+Controlled Release Fert,Profit,8,2,-0.5,negative_strong,0,negative
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,negative_strong,0,negative
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,negative_strong,0,negative
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,negative_strong,0,negative
+Controlled Release Fert,Labour Cost,4,1,0,negative_strong,0,negative
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,negative_strong,12,negative
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,negative_strong,2,negative
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,negative_strong,0,negative
+IPM,Profit,9,4,-0.111111111111111,negative_strong,0,negative
+Rotation,Returns to Labour,54,1,1.68518518518519,negative_strong,0,negative
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,negative_strong,2,negative
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,negative_strong,0,negative
+Intercropping,Cost,109,12,0.721358024691358,negative_strong,0,negative
+Reduced Fert,Cost,280,34,-0.0725071225071225,negative_strong,12,negative
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,negative_strong,0,negative
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,negative_strong,0,negative
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,negative_strong,0,negative
+Reduced Erosion,Profit,21,4,0.706147058823529,negative_strong,1,negative
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,negative_strong,0,negative
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,negative_strong,0,negative
+Reduced Erosion+Organic Fert,Profit,1,1,0,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,negative_strong,0,negative
+Reduced Erosion+Organic Fert,Cost,1,1,1,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,negative_strong,0,negative
+Organic Fert,Labour Cost,4,1,1.5,negative_strong,0,negative
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,negative_strong,0,negative
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,negative_strong,0,negative
+Organic Fert,Cost,97,16,1.05816993464052,negative_strong,0,negative
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,negative_strong,0,negative
+Reduced Erosion,Cost,11,3,0.416666666666667,negative_strong,0,negative
+Organic Fert,Gross Revenue,95,15,1.25260416666667,negative_strong,0,negative
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,negative_strong,0,negative
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,negative_strong,0,negative
+Organic Fert,Profit,132,20,0.988925081433225,negative_strong,0,negative
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,negative_strong,8,negative
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,negative_strong,4,negative
+Intercropping,Labour Cost per Asset,18,1,2,negative_strong,0,negative
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,negative_strong,0,negative
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,negative_strong,0,negative
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,negative_strong,0,negative
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,negative_strong,0,negative
+IPM,Gross Revenue,6,3,0.0476190476190476,negative_strong,0,negative
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,negative_strong,0,negative
+IPM,Cost,6,3,1.02380952380952,negative_strong,0,negative
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,negative_strong,0,negative
+IPM,Labour Cost,2,1,0.5,negative_strong,0,negative
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,negative_strong,0,negative
+Biochar,Cost,91,10,0.770161290322581,negative_strong,1,negative
+Agroforestry+Organic Fert,Profit,1,1,-1,negative_strong,0,negative
+Agroforestry,Cost,32,8,-0.294871794871795,negative_strong,3,negative
+Agroforestry+Organic Fert,Cost,1,1,-1,negative_strong,0,negative
+Agroforestry+Reduced Fert,Profit,3,2,-1,negative_strong,0,negative
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,negative_strong,0,negative
+Cover Crops+Residue/Mulch,Cost,11,3,0,negative_strong,0,negative
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,negative_strong,0,negative
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,negative_strong,0,negative
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,negative_strong,0,negative
+"",Profit,12,3,0.500333333333333,negative_strong,0,negative
+"",Cost,9,2,-0.666666666666667,negative_strong,1,negative
+"",Gross Revenue,9,2,0.25,negative_strong,0,negative
+IPM,Benefit Cost Ratio,8,2,-0.5,negative_strong,0,negative
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,negative_strong,7,negative
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,negative_strong,3,negative
+Residue/Mulch,Present Value of Benefit,2,1,2,negative_strong,0,negative
+Residue/Mulch,Present Value of Cost,2,1,0,negative_strong,0,negative
+Residue/Mulch,Net Present Value,2,1,2,negative_strong,0,negative
+Residue/Mulch,Return on Investment,2,1,2,negative_strong,0,negative
+Cover Crops,Cost,31,8,0.690697674418605,negative_strong,0,negative
+Cover Crops,Gross Revenue,33,7,0.705585980284775,negative_strong,0,negative
+Cover Crops,Profit,28,9,0.131111111111111,negative_strong,1,negative
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,negative_strong,1,negative
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,negative_strong,0,negative
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,negative_strong,0,negative
+Rotation,Cost,37,12,1.70454545454545,negative_strong,0,negative
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,negative_strong,1,negative
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,negative_strong,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,negative_strong,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,negative_strong,2,negative
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,negative_strong,0,negative
+Cover Crops+Reduced Fert,Cost,1,1,0,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,negative_strong,0,negative
+Reduced Irrigation+Rotation,Profit,4,1,0.5,negative_strong,0,negative
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,negative_strong,0,negative
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,negative_strong,0,negative
+Intercropping+Rotation,Cost,8,4,0.764705882352941,negative_strong,0,negative
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,negative_strong,3,negative
+Residue/Mulch+Rotation,Profit,7,3,1.55,negative_strong,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,negative_strong,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,negative_strong,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,negative_strong,0,negative
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,negative_strong,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,negative_strong,0,negative
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,negative_strong,0,negative
+Intercropping+Reduced Tillage,Cost,6,2,0.625,negative_strong,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,negative_strong,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,negative_strong,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,negative_strong,0,negative
+Agroforestry+Reduced Tillage,Cost,2,1,-1,negative_strong,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,negative_strong,0,negative
+Intercropping+Reduced Tillage,Profit,6,2,1.375,negative_strong,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,negative_strong,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Tillage,Profit,2,1,0,negative_strong,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,negative_strong,1,negative
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,negative_strong,0,negative
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,negative_strong,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,negative_strong,0,negative
+Organic Fert+Residue/Mulch,Cost,1,1,1,negative_strong,0,negative
+Organic Fert+Reduced Tillage,Cost,7,2,0,negative_strong,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,negative_strong,0,negative
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,negative_strong,2,negative
+Controlled Release Fert,Gross Revenue,4,1,0,negative_strong,0,negative
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,negative_strong,0,negative
+Controlled Release Fert,Cost,4,1,0,negative_strong,0,negative
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,negative_strong,0,negative
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,negative_strong,12,negative
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,negative_strong,19,negative
+Agroforestry,Net Present Value,53,3,-0.286981481481482,negative_strong,2,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,negative_strong,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,negative_strong,0,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,negative_strong,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,negative_strong,0,negative
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,negative_strong,0,negative
+Cover Crops+Reduced Tillage,Cost,1,1,0,negative_strong,0,negative
+Cover Crops+Reduced Tillage,Profit,1,1,-1,negative_strong,0,negative
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,negative_strong,0,negative
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,negative_strong,0,negative
+Residue/Mulch,Labour Cost,5,2,1.5,negative_strong,0,negative
+Reduced Tillage+Rotation,Net Present Value,2,1,2,negative_strong,0,negative
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,negative_strong,0,negative
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,negative_strong,0,negative
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,negative_strong,0,negative
+Intercropping+Reduced Tillage,Payback Period,3,1,2,negative_strong,0,negative
+Reduced Tillage+Rotation,Payback Period,2,1,2,negative_strong,0,negative
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,negative_strong,0,negative
+Rotation,Net Present Value,2,1,1.5005,negative_strong,0,negative
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,negative_strong,0,negative
+Rotation,Internal Rate of Return,2,1,2,negative_strong,0,negative
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,negative_strong,0,negative
+Rotation,Payback Period,2,1,2,negative_strong,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,negative_strong,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,negative_strong,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,negative_strong,0,negative
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,negative_strong,0,negative
+Residue/Mulch+Rotation,Cost,6,2,0.5,negative_strong,0,negative
+Reduced Tillage,Fixed Cost,4,1,0,negative_strong,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,negative_strong,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,negative_strong,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,negative_strong,1,negative
+Cover Crops,Return on Investment,2,1,1,negative_strong,0,negative
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,negative_strong,1,negative
+Intercropping,Net Present Value,1,1,1.001,negative_strong,0,negative
+"",Benefit Cost Ratio,10,3,0.722222222222222,negative_strong,0,negative
+"",Net Present Value,1,1,2,negative_strong,0,negative
+Reduced Irrigation,Labour Cost,1,1,-2,negative_strong,1,negative
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,negative_strong,0,negative
+Reduced Fert,Labour Cost,12,1,0.916666666666667,negative_strong,0,negative
+Residue/Mulch,Return to Labour,2,1,-0.5005,negative_strong,0,negative
+Organic Fert,Return to Labour,2,1,-1.0005,negative_strong,0,negative
+Reduced Fert,Return to Labour,4,1,0.5,negative_strong,0,negative
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,negative_strong,0,negative
+Reduced Fert+Intercropping,Cost,2,1,-1,negative_strong,0,negative
+Reduced Fert+Intercropping,Profit,2,1,0.5,negative_strong,0,negative
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,negative_strong,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,negative_strong,3,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,negative_strong,6,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,negative_strong,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,negative_strong,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,negative_strong,0,negative
+Agroforestry,Present Value of Benefit,2,1,2,negative_strong,0,negative
+Agroforestry,Present Value of Cost,2,1,1,negative_strong,0,negative
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,negative_strong,0,negative
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,negative_strong,0,negative
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,negative_strong,0,negative
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,negative_strong,0,negative
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,negative_strong,0,negative
+Reduced Erosion+Reduced Fert,Profit,3,1,1,negative_strong,0,negative
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,negative_strong,0,negative
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,negative_strong,0,negative
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,negative_strong,0,negative
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,negative_strong,1,negative
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,negative_strong,0,negative
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,negative_strong,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,negative_strong,2,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,negative_strong,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,negative_strong,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,negative_strong,0,negative
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,negative_strong,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,negative_strong,0,negative
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,negative_strong,1,negative
+Biochar+Organic Fert,Cost,20,1,1.65,negative_strong,0,negative
+Biochar+Organic Fert,Gross Revenue,20,1,2,negative_strong,0,negative
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,negative_strong,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,negative_strong,0,negative
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,negative_strong,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,negative_strong,0,negative
+Intercropping+Organic Fert,Profit,2,1,2,negative_strong,0,negative
+Organic Fert+Rotation,Profit,2,1,2,negative_strong,0,negative
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,negative_strong,0,negative
+Cover Crops,Labour Cost,5,1,-0.2,negative_strong,1,negative
+Cover Crops,Internal Rate of Return,5,1,1.001,negative_strong,0,negative
+Cover Crops,Net Present Value,5,1,1.001,negative_strong,0,negative
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,negative_strong,0,negative
+Organic Fert+Residue/Mulch,Profit,1,1,1,negative_strong,0,negative
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,negative_strong,0,negative
+Biochar+Organic Fert,Profit,20,1,2,negative_strong,0,negative
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,negative_strong,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,negative_strong,0,negative
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,negative_strong,0,negative
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,negative_strong,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,negative_strong,0,negative
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,negative_strong,0,negative
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,negative_strong,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,negative_strong,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,negative_strong,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,negative_strong,0,negative
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,negative_strong,0,negative
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,negative_strong,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,negative_strong,0,negative
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,negative_strong,0,negative
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,negative_strong,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,negative_strong,0,negative
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,negative_strong,0,negative
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,negative_strong,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,negative_strong,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,negative_strong,3,negative
+All Nbs,Cost,1605,158,0.451993228502717,negative_strong,30,negative
+All Nbs,Profit,2195,182,0.483345336179548,negative_strong,137,negative
+All Nbs,Gross Revenue,1442,138,0.532112617288316,negative_strong,33,negative
+All Nbs,Labour Cost,59,11,0.053030303030303,negative_strong,2,negative
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,negative_strong,77,negative
+All Nbs,Returns to Labour,99,1,1.18181818181818,negative_strong,2,negative
+All Nbs,Labour Cost per Asset,19,2,1.5,negative_strong,0,negative
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,negative_strong,5,negative
+All Nbs,Present Value of Benefit,4,2,2,negative_strong,0,negative
+All Nbs,Present Value of Cost,4,2,0.2,negative_strong,0,negative
+All Nbs,Net Present Value,77,7,0.916485303617571,negative_strong,3,negative
+All Nbs,Return on Investment,4,2,1.57142857142857,negative_strong,0,negative
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,negative_strong,0,negative
+All Nbs,Payback Period,9,1,2,negative_strong,0,negative
+All Nbs,Fixed Cost,4,1,0,negative_strong,0,negative
+All Nbs,Return to Labour,8,1,-0.12525,negative_strong,0,negative
+Improved Livestock Diet,Cost,1,1,2,posC_negT,0,negative
+Improved Livestock Diet,Profit,1,1,2,posC_negT,0,negative
+Reduced Tillage,Cost,204,45,-0.443352601156069,posC_negT,0,negative
+Reduced Erosion+Reduced Tillage,Cost,6,1,-1,posC_negT,0,negative
+Reduced Tillage,Gross Revenue,180,38,-0.0495379072681704,posC_negT,0,negative
+Reduced Erosion+Reduced Tillage,Gross Revenue,6,1,0.5,posC_negT,0,negative
+Reduced Tillage,Profit,267,49,0.475297397945391,posC_negT,20,negative
+Reduced Erosion+Reduced Tillage,Profit,6,1,1.16683333333333,posC_negT,0,negative
+Reduced Tillage,Labour Cost,3,2,1,posC_negT,0,negative
+Reduced Erosion+Reduced Tillage,Labour Cost,2,1,1,posC_negT,0,negative
+Biochar,Gross Revenue,79,9,0.420386904761905,posC_negT,0,negative
+Biochar,Profit,91,10,0.368279569892473,posC_negT,0,negative
+Agroforestry,Gross Revenue,29,7,0.11969696969697,posC_negT,0,negative
+Intercropping+Residue/Mulch,Profit,3,1,1,posC_negT,0,negative
+Reduced Erosion+Reduced Tillage+Residue/Mulch,Profit,3,1,1,posC_negT,0,negative
+Reduced Erosion+Intercropping+Reduced Tillage+Residue/Mulch,Profit,3,1,1,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch,Gross Revenue,56,16,0.175925925925926,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage,Gross Revenue,55,10,0.0794871794871795,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Gross Revenue,15,3,0.222727272727273,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch,Profit,108,26,0.423169384057971,posC_negT,3,negative
+Reduced Irrigation+Reduced Tillage,Profit,67,14,0.379709150326797,posC_negT,2,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,19,5,0.458823529411765,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch,Cost,65,22,-0.345939189189189,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage,Cost,61,13,-0.490625,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,19,5,-0.885294117647059,posC_negT,0,negative
+Residue/Mulch,Gross Revenue,161,30,0.493700072621641,posC_negT,0,negative
+Residue/Mulch,Profit,270,42,0.420267458463136,posC_negT,6,negative
+Residue/Mulch,Benefit Cost Ratio,235,29,0.0758230452674897,posC_negT,1,negative
+Reduced Tillage,Benefit Cost Ratio,230,39,0.361485042735043,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,65,16,0.287736363636364,posC_negT,0,negative
+Intercropping,Gross Revenue,105,12,0.845350241545894,posC_negT,0,negative
+Intercropping,Profit,201,16,0.715082948717949,posC_negT,2,negative
+Intercropping,Benefit Cost Ratio,118,13,0.24280303030303,posC_negT,0,negative
+Intercropping+Rotation,Gross Revenue,7,3,1.5,posC_negT,0,negative
+Rotation,Gross Revenue,21,9,1.00572519083969,posC_negT,0,negative
+Intercropping+Rotation,Profit,9,4,0.970588235294118,posC_negT,0,negative
+Rotation,Profit,56,17,0.590574297188755,posC_negT,0,negative
+Reduced Irrigation,Gross Revenue,91,15,0.28562091503268,posC_negT,0,negative
+Reduced Irrigation,Profit,111,19,0.418806878306878,posC_negT,0,negative
+Reduced Irrigation,Benefit Cost Ratio,94,13,0.279259259259259,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage,Benefit Cost Ratio,90,10,0.505128205128205,posC_negT,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Gross Revenue,2,1,0.5,posC_negT,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Cost,2,1,1,posC_negT,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Profit,2,1,0.5,posC_negT,0,negative
+Agroforestry,Profit,36,9,-0.212649425287356,posC_negT,2,negative
+Agroforestry,Benefit Cost Ratio,73,6,0.2975,posC_negT,0,negative
+Agroforestry+Reduced Irrigation,Gross Revenue,4,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Irrigation,Profit,4,1,1,posC_negT,0,negative
+Agroforestry+Reduced Irrigation,Cost,8,1,0,posC_negT,0,negative
+Reduced Irrigation,Cost,95,17,0.103508771929825,posC_negT,0,negative
+Residue/Mulch,Cost,179,36,0.304019283746556,posC_negT,0,negative
+Reduced Fert,Gross Revenue,273,31,-0.116464998632759,posC_negT,0,negative
+Controlled Release Fert+Reduced Tillage,Gross Revenue,6,1,-0.833333333333333,posC_negT,0,negative
+Reduced Fert+Reduced Tillage,Profit,66,4,-0.517361111111111,posC_negT,3,negative
+Reduced Fert,Profit,341,37,-0.281331953036066,posC_negT,14,negative
+Controlled Release Fert,Profit,8,2,-0.5,posC_negT,0,negative
+Controlled Release Fert+Reduced Tillage,Profit,2,1,0,posC_negT,0,negative
+Reduced Fert+Reduced Tillage,Labour Cost,6,1,0,posC_negT,0,negative
+Controlled Release Fert+Reduced Tillage,Labour Cost,2,1,0,posC_negT,0,negative
+Controlled Release Fert,Labour Cost,4,1,0,posC_negT,0,negative
+Reduced Fert,Benefit Cost Ratio,287,34,-0.0381295289855072,posC_negT,0,negative
+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,42,3,-0.240740740740741,posC_negT,0,negative
+Controlled Release Fert+Reduced Tillage,Benefit Cost Ratio,8,1,-0.75,posC_negT,0,negative
+IPM,Profit,9,4,-0.111111111111111,posC_negT,0,negative
+Rotation,Returns to Labour,54,1,1.68518518518519,posC_negT,0,negative
+Reduced Fert,Returns to Labour,18,1,-0.666666666666667,posC_negT,0,negative
+Cover Crops+Intercropping,Returns to Labour,27,1,1.40740740740741,posC_negT,0,negative
+Intercropping,Cost,109,12,0.721358024691358,posC_negT,0,negative
+Reduced Fert,Cost,280,34,-0.0725071225071225,posC_negT,0,negative
+Intercropping+Reduced Tillage,Gross Revenue,8,3,0.7,posC_negT,0,negative
+Intercropping+Reduced Tillage,Labour Cost per Asset,1,1,1,posC_negT,0,negative
+Rotation,Benefit Cost Ratio,23,9,-0.68796992481203,posC_negT,0,negative
+Reduced Erosion,Profit,21,4,0.706147058823529,posC_negT,1,negative
+Reduced Erosion,Benefit Cost Ratio,25,4,0.647058823529412,posC_negT,0,negative
+Reduced Erosion+Organic Fert,Gross Revenue,1,1,0,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Gross Revenue,1,1,2,posC_negT,0,negative
+Reduced Erosion+Organic Fert,Profit,1,1,0,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Profit,1,1,1,posC_negT,0,negative
+Reduced Erosion+Organic Fert,Cost,1,1,1,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Cost,1,1,2,posC_negT,0,negative
+Organic Fert,Labour Cost,4,1,1.5,posC_negT,0,negative
+Reduced Fert+Organic Fert,Labour Cost,6,2,0.535714285714286,posC_negT,0,negative
+Reduced Erosion,Labour Cost,6,1,1.66666666666667,posC_negT,0,negative
+Organic Fert,Cost,97,16,1.05816993464052,posC_negT,0,negative
+Reduced Fert+Organic Fert,Cost,39,10,0.151351351351351,posC_negT,0,negative
+Reduced Erosion,Cost,11,3,0.416666666666667,posC_negT,0,negative
+Organic Fert,Gross Revenue,95,15,1.25260416666667,posC_negT,0,negative
+Reduced Fert+Organic Fert,Gross Revenue,41,8,0.398387096774194,posC_negT,0,negative
+Reduced Erosion,Gross Revenue,11,3,0.916666666666667,posC_negT,0,negative
+Organic Fert,Profit,132,20,0.988925081433225,posC_negT,1,negative
+Reduced Fert+Organic Fert,Profit,52,9,0.192197452229299,posC_negT,0,negative
+Intercropping,Marginal Rate of Return,8,2,-0.857142857142857,posC_negT,0,negative
+Intercropping,Labour Cost per Asset,18,1,2,posC_negT,0,negative
+Reduced Tillage,Marginal Rate of Return,1,1,1.001,posC_negT,0,negative
+Biochar+Reduced Fert,Gross Revenue,7,2,0.5,posC_negT,0,negative
+Biochar+Reduced Fert,Profit,19,3,0.583333333333333,posC_negT,0,negative
+Cover Crops+IPM+Residue/Mulch,Profit,1,1,-1,posC_negT,0,negative
+IPM,Gross Revenue,6,3,0.0476190476190476,posC_negT,0,negative
+Cover Crops+IPM+Residue/Mulch,Gross Revenue,1,1,-1,posC_negT,0,negative
+IPM,Cost,6,3,1.02380952380952,posC_negT,0,negative
+Cover Crops+IPM+Residue/Mulch,Cost,1,1,1,posC_negT,0,negative
+IPM,Labour Cost,2,1,0.5,posC_negT,0,negative
+Cover Crops+IPM+Residue/Mulch,Labour Cost,1,1,1,posC_negT,0,negative
+Biochar,Cost,91,10,0.770161290322581,posC_negT,0,negative
+Agroforestry+Organic Fert,Profit,1,1,-1,posC_negT,0,negative
+Agroforestry,Cost,32,8,-0.294871794871795,posC_negT,0,negative
+Agroforestry+Organic Fert,Cost,1,1,-1,posC_negT,0,negative
+Agroforestry+Reduced Fert,Profit,3,2,-1,posC_negT,0,negative
+Agroforestry+Reduced Fert,Cost,3,2,-0.625,posC_negT,0,negative
+Cover Crops+Residue/Mulch,Cost,11,3,0,posC_negT,0,negative
+Cover Crops+Residue/Mulch,Gross Revenue,9,2,0.4375,posC_negT,0,negative
+Cover Crops+Residue/Mulch,Profit,11,3,1.33333333333333,posC_negT,0,negative
+Cover Crops+Residue/Mulch,Benefit Cost Ratio,9,2,0.4375,posC_negT,0,negative
+"",Profit,12,3,0.500333333333333,posC_negT,0,negative
+"",Cost,9,2,-0.666666666666667,posC_negT,0,negative
+"",Gross Revenue,9,2,0.25,posC_negT,0,negative
+IPM,Benefit Cost Ratio,8,2,-0.5,posC_negT,0,negative
+Reduced Fert+Residue/Mulch,Profit,53,4,-0.245025793650794,posC_negT,4,negative
+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,18,1,0.333444444444444,posC_negT,0,negative
+Residue/Mulch,Present Value of Benefit,2,1,2,posC_negT,0,negative
+Residue/Mulch,Present Value of Cost,2,1,0,posC_negT,0,negative
+Residue/Mulch,Net Present Value,2,1,2,posC_negT,0,negative
+Residue/Mulch,Return on Investment,2,1,2,posC_negT,0,negative
+Cover Crops,Cost,31,8,0.690697674418605,posC_negT,0,negative
+Cover Crops,Gross Revenue,33,7,0.705585980284775,posC_negT,0,negative
+Cover Crops,Profit,28,9,0.131111111111111,posC_negT,0,negative
+Cover Crops,Benefit Cost Ratio,23,7,-0.786144578313253,posC_negT,0,negative
+Reduced Fert+Reduced Irrigation,Cost,9,1,0.333333333333333,posC_negT,0,negative
+Reduced Fert+Reduced Irrigation,Profit,9,1,-0.666666666666667,posC_negT,0,negative
+Rotation,Cost,37,12,1.70454545454545,posC_negT,0,negative
+Organic Fert,Benefit Cost Ratio,127,17,0.232742937853107,posC_negT,1,negative
+Reduced Tillage+Residue/Mulch+Rotation,Cost,9,2,0.125,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Gross Revenue,4,1,1.75,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Profit,17,4,0.617647058823529,posC_negT,0,negative
+Reduced Tillage+Residue/Mulch+Rotation,Benefit Cost Ratio,4,1,1.5,posC_negT,0,negative
+Cover Crops+Reduced Fert,Cost,1,1,0,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Rotation,Profit,2,1,2,posC_negT,0,negative
+Reduced Irrigation+Rotation,Profit,4,1,0.5,posC_negT,0,negative
+Reduced Fert+Reduced Tillage,Gross Revenue,38,2,0.111111111111111,posC_negT,0,negative
+Reduced Fert+Reduced Tillage,Cost,38,2,-0.416666666666667,posC_negT,0,negative
+Intercropping+Rotation,Cost,8,4,0.764705882352941,posC_negT,0,negative
+Biochar+Reduced Fert,Cost,19,3,-0.527777777777778,posC_negT,0,negative
+Residue/Mulch+Rotation,Profit,7,3,1.55,posC_negT,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Gross Revenue,2,1,1.5,posC_negT,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,posC_negT,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Gross Revenue,2,1,1,posC_negT,0,negative
+Agroforestry+Reduced Tillage,Gross Revenue,2,1,-0.5,posC_negT,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-1,posC_negT,0,negative
+Agroforestry+Reduced Fert,Gross Revenue,2,1,-1,posC_negT,0,negative
+Intercropping+Reduced Tillage,Cost,6,2,0.625,posC_negT,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Cost,2,1,1,posC_negT,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,posC_negT,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Cost,2,1,1,posC_negT,0,negative
+Agroforestry+Reduced Tillage,Cost,2,1,-1,posC_negT,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Cost,2,1,-1,posC_negT,0,negative
+Intercropping+Reduced Tillage,Profit,6,2,1.375,posC_negT,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Profit,2,1,1.5,posC_negT,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Profit,2,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Tillage,Profit,2,1,0,posC_negT,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Profit,2,1,-1.5,posC_negT,0,negative
+Organic Fert+Residue/Mulch,Gross Revenue,1,1,1,posC_negT,0,negative
+Organic Fert+Reduced Tillage,Gross Revenue,7,2,0.571428571428571,posC_negT,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,posC_negT,0,negative
+Organic Fert+Residue/Mulch,Cost,1,1,1,posC_negT,0,negative
+Organic Fert+Reduced Tillage,Cost,7,2,0,posC_negT,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,1,posC_negT,0,negative
+Reduced Fert+Organic Fert,Benefit Cost Ratio,51,8,0.337096774193548,posC_negT,0,negative
+Controlled Release Fert,Gross Revenue,4,1,0,posC_negT,0,negative
+Controlled Release Fert+Reduced Fert,Gross Revenue,2,1,0,posC_negT,0,negative
+Controlled Release Fert,Cost,4,1,0,posC_negT,0,negative
+Controlled Release Fert+Reduced Fert,Cost,2,1,0,posC_negT,0,negative
+Biochar,Benefit Cost Ratio,86,9,-0.604166666666667,posC_negT,0,negative
+Biochar+Reduced Fert,Benefit Cost Ratio,45,4,-0.5625,posC_negT,0,negative
+Agroforestry,Net Present Value,53,3,-0.286981481481482,posC_negT,0,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Cost,1,1,0,posC_negT,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Cost,5,2,-0.5,posC_negT,0,negative
+Cover Crops+Reduced Tillage+Residue/Mulch,Profit,1,1,1,posC_negT,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,5,2,0.125,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Gross Revenue,1,1,2,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+IPM+Reduced Irrigation+Organic Fert+Residue/Mulch+Rotation,Profit,7,1,1.42871428571429,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Gross Revenue,2,1,-0.5,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Gross Revenue,1,1,1,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Cost,2,1,0,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Cost,1,1,-1,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Profit,2,1,-1,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Profit,1,1,1,posC_negT,0,negative
+Cover Crops+Reduced Tillage,Gross Revenue,1,1,-1,posC_negT,0,negative
+Cover Crops+Reduced Tillage,Cost,1,1,0,posC_negT,0,negative
+Cover Crops+Reduced Tillage,Profit,1,1,-1,posC_negT,0,negative
+Reduced Erosion+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Profit,2,1,0.375,posC_negT,0,negative
+Reduced Erosion+Reduced Irrigation+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,3,1,-0.153846153846154,posC_negT,0,negative
+Residue/Mulch,Labour Cost,5,2,1.5,posC_negT,0,negative
+Reduced Tillage+Rotation,Net Present Value,2,1,2,posC_negT,0,negative
+Reduced Tillage+Rotation,Internal Rate of Return,2,1,2,posC_negT,0,negative
+Intercropping+Reduced Tillage,Net Present Value,3,1,1.66666666666667,posC_negT,0,negative
+Intercropping+Reduced Tillage,Internal Rate of Return,3,1,1.66666666666667,posC_negT,0,negative
+Intercropping+Reduced Tillage,Payback Period,3,1,2,posC_negT,0,negative
+Reduced Tillage+Rotation,Payback Period,2,1,2,posC_negT,0,negative
+Intercropping+Reduced Tillage+Rotation,Net Present Value,1,1,1.001,posC_negT,0,negative
+Rotation,Net Present Value,2,1,1.5005,posC_negT,0,negative
+Intercropping+Reduced Tillage+Rotation,Internal Rate of Return,1,1,2,posC_negT,0,negative
+Rotation,Internal Rate of Return,2,1,2,posC_negT,0,negative
+Intercropping+Reduced Tillage+Rotation,Payback Period,1,1,2,posC_negT,0,negative
+Rotation,Payback Period,2,1,2,posC_negT,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Net Present Value,1,1,2,posC_negT,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Internal Rate of Return,1,1,2,posC_negT,0,negative
+Intercropping+Organic Fert+Reduced Tillage,Payback Period,1,1,2,posC_negT,0,negative
+Residue/Mulch+Rotation,Gross Revenue,2,1,0,posC_negT,0,negative
+Residue/Mulch+Rotation,Cost,6,2,0.5,posC_negT,0,negative
+Reduced Tillage,Fixed Cost,4,1,0,posC_negT,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Cost,4,1,0.25,posC_negT,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Gross Revenue,4,1,1.5,posC_negT,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Profit,10,2,0.424242424242424,posC_negT,0,negative
+Cover Crops,Return on Investment,2,1,1,posC_negT,0,negative
+Reduced Fert,Net Present Value,6,1,-0.499666666666667,posC_negT,0,negative
+Intercropping,Net Present Value,1,1,1.001,posC_negT,0,negative
+"",Benefit Cost Ratio,10,3,0.722222222222222,posC_negT,0,negative
+"",Net Present Value,1,1,2,posC_negT,0,negative
+Reduced Irrigation,Labour Cost,1,1,-2,posC_negT,0,negative
+Reduced Fert,Marginal Rate of Return,4,2,1.23809523809524,posC_negT,0,negative
+Reduced Fert,Labour Cost,12,1,0.916666666666667,posC_negT,0,negative
+Residue/Mulch,Return to Labour,2,1,-0.5005,posC_negT,1,negative
+Organic Fert,Return to Labour,2,1,-1.0005,posC_negT,1,negative
+Reduced Fert,Return to Labour,4,1,0.5,posC_negT,0,negative
+Reduced Fert+Intercropping,Gross Revenue,2,1,2,posC_negT,0,negative
+Reduced Fert+Intercropping,Cost,2,1,-1,posC_negT,0,negative
+Reduced Fert+Intercropping,Profit,2,1,0.5,posC_negT,0,negative
+Reduced Fert+Intercropping,Benefit Cost Ratio,4,1,1.5,posC_negT,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Gross Revenue,8,1,-1.375,posC_negT,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Profit,8,1,-1.75,posC_negT,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Cost,8,1,0,posC_negT,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Cost,4,1,-1,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Cost,8,1,0,posC_negT,0,negative
+Cover Crops+Reduced Irrigation+Reduced Tillage,Profit,4,1,-1,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch+Rotation,Profit,8,1,2,posC_negT,0,negative
+Agroforestry,Present Value of Benefit,2,1,2,posC_negT,0,negative
+Agroforestry,Present Value of Cost,2,1,1,posC_negT,0,negative
+Reduced Fert+Residue/Mulch,Cost,16,3,-0.5,posC_negT,0,negative
+Reduced Fert+Residue/Mulch,Gross Revenue,16,3,-0.391666666666667,posC_negT,0,negative
+Reduced Erosion+Reduced Fert,Cost,3,1,-0.333333333333333,posC_negT,0,negative
+Reduced Erosion+Reduced Fert,Gross Revenue,3,1,0.666666666666667,posC_negT,0,negative
+Reduced Erosion+Reduced Fert,Benefit Cost Ratio,6,1,1,posC_negT,0,negative
+Reduced Erosion+Reduced Fert,Profit,3,1,1,posC_negT,0,negative
+Reduced Erosion+Residue/Mulch,Cost,6,1,1.33333333333333,posC_negT,0,negative
+Reduced Erosion+Residue/Mulch,Profit,6,1,1,posC_negT,0,negative
+Organic Fert,Marginal Rate of Return,6,1,0.667333333333333,posC_negT,0,negative
+Reduced Fert+Organic Fert,Marginal Rate of Return,5,1,0.4004,posC_negT,0,negative
+Organic Fert+Reduced Tillage,Profit,7,2,0.571428571428571,posC_negT,0,negative
+Organic Fert+Reduced Tillage,Benefit Cost Ratio,13,2,0.571428571428571,posC_negT,0,negative
+Reduced Irrigation+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,25,3,1.11818181818182,posC_negT,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Cost,1,1,0,posC_negT,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Gross Revenue,1,1,0,posC_negT,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Profit,1,1,0,posC_negT,0,negative
+Reduced Fert+Residue/Mulch,Benefit Cost Ratio,24,3,-0.15,posC_negT,0,negative
+Reduced Fert+Organic Fert+Residue/Mulch,Benefit Cost Ratio,2,1,0,posC_negT,0,negative
+Biochar+Reduced Fert+Intercropping,Benefit Cost Ratio,18,1,0.166666666666667,posC_negT,0,negative
+Biochar+Organic Fert,Cost,20,1,1.65,posC_negT,0,negative
+Biochar+Organic Fert,Gross Revenue,20,1,2,posC_negT,0,negative
+Biochar+Organic Fert,Benefit Cost Ratio,40,1,1.875,posC_negT,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,2,1,posC_negT,0,negative
+Intercropping+Organic Fert+Reduced Tillage+Residue/Mulch,Profit,2,1,1.5,posC_negT,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch+Rotation,Profit,2,1,1.5,posC_negT,0,negative
+Intercropping+Organic Fert,Profit,2,1,2,posC_negT,0,negative
+Organic Fert+Rotation,Profit,2,1,2,posC_negT,0,negative
+Intercropping+Rotation,Benefit Cost Ratio,12,3,0.8,posC_negT,0,negative
+Cover Crops,Labour Cost,5,1,-0.2,posC_negT,0,negative
+Cover Crops,Internal Rate of Return,5,1,1.001,posC_negT,0,negative
+Cover Crops,Net Present Value,5,1,1.001,posC_negT,0,negative
+Controlled Release Fert+Reduced Tillage,Cost,2,1,-0.5,posC_negT,0,negative
+Organic Fert+Residue/Mulch,Profit,1,1,1,posC_negT,0,negative
+Controlled Release Fert+Reduced Fert,Profit,2,1,0,posC_negT,0,negative
+Biochar+Organic Fert,Profit,20,1,2,posC_negT,0,negative
+Reduced Erosion+Reduced Tillage,Benefit Cost Ratio,6,1,1.5,posC_negT,0,negative
+Agroforestry+Controlled Grazing+Reduced Erosion+Intercropping,Benefit Cost Ratio,2,1,-0.5,posC_negT,0,negative
+Agroforestry+Reduced Irrigation,Benefit Cost Ratio,4,1,2,posC_negT,0,negative
+Reduced Erosion+Organic Fert,Benefit Cost Ratio,1,1,-1,posC_negT,0,negative
+Cover Crops+Reduced Erosion+Intercropping+Rotation,Benefit Cost Ratio,1,1,-1,posC_negT,0,negative
+Cover Crops+IPM+Residue/Mulch,Benefit Cost Ratio,1,1,-1,posC_negT,0,negative
+Intercropping+Reduced Tillage,Benefit Cost Ratio,6,2,1.25,posC_negT,0,negative
+Agroforestry+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,1,posC_negT,0,negative
+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Fert+Intercropping+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Tillage,Benefit Cost Ratio,2,1,0.5,posC_negT,0,negative
+Agroforestry+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,posC_negT,0,negative
+Agroforestry+Reduced Fert,Benefit Cost Ratio,2,1,-1,posC_negT,0,negative
+Organic Fert+Residue/Mulch,Benefit Cost Ratio,1,1,0,posC_negT,0,negative
+Organic Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,posC_negT,0,negative
+Controlled Release Fert,Benefit Cost Ratio,4,1,0,posC_negT,0,negative
+Controlled Release Fert+Reduced Fert,Benefit Cost Ratio,2,1,0,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage,Benefit Cost Ratio,2,1,-0.5,posC_negT,0,negative
+Cover Crops+Reduced Fert+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,1,1,1,posC_negT,0,negative
+Cover Crops+Reduced Tillage,Benefit Cost Ratio,1,1,-1,posC_negT,0,negative
+Residue/Mulch+Rotation,Benefit Cost Ratio,2,1,0,posC_negT,0,negative
+Intercropping+Reduced Tillage+Residue/Mulch,Benefit Cost Ratio,4,1,1.75,posC_negT,0,negative
+Reduced Fert+IPM+Organic Fert+Residue/Mulch,Benefit Cost Ratio,8,1,-1.375,posC_negT,0,negative
+All Nbs,Cost,1605,158,0.451993228502717,posC_negT,0,negative
+All Nbs,Profit,2195,182,0.483345336179548,posC_negT,58,negative
+All Nbs,Gross Revenue,1442,138,0.532112617288316,posC_negT,0,negative
+All Nbs,Labour Cost,59,11,0.053030303030303,posC_negT,0,negative
+All Nbs,Benefit Cost Ratio,1856,138,-0.0565988996793756,posC_negT,2,negative
+All Nbs,Returns to Labour,99,1,1.18181818181818,posC_negT,0,negative
+All Nbs,Labour Cost per Asset,19,2,1.5,posC_negT,0,negative
+All Nbs,Marginal Rate of Return,24,4,0.415730769230769,posC_negT,0,negative
+All Nbs,Present Value of Benefit,4,2,2,posC_negT,0,negative
+All Nbs,Present Value of Cost,4,2,0.2,posC_negT,0,negative
+All Nbs,Net Present Value,77,7,0.916485303617571,posC_negT,0,negative
+All Nbs,Return on Investment,4,2,1.57142857142857,posC_negT,0,negative
+All Nbs,Internal Rate of Return,14,2,1.06442063492063,posC_negT,0,negative
+All Nbs,Payback Period,9,1,2,posC_negT,0,negative
+All Nbs,Fixed Cost,4,1,0,posC_negT,0,negative
+All Nbs,Return to Labour,8,1,-0.12525,posC_negT,2,negative
