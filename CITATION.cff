@@ -10,9 +10,6 @@ authors:
 - family-names: Rosenstock
   given-names: Todd
   orcid: https://orcid.org/0000-0002-1958-9500
-- family-names: Rosenstock
-  given-names: Todd
-  orcid:
 - family-names: Kacha
   given-names: Gabrielle
   orcid:
@@ -33,4 +30,4 @@ version: v1.0.0
 publisher: Alliance of Bioversity-CIAT, Rome
 date-released: 2023-12-05
 url: "https://github.com/CIAT/nbs_synthesis"
-dor: 10.5281/zenodo.10260872
+doi: 10.5281/zenodo.10260872
